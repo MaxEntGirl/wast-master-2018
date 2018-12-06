@@ -25,7 +25,7 @@ in der Woche vom 25.2. bis zum 1.3.2918
 [zum Teilprojekt Management](/E_data/README.md)
 
 ###  E : Edition: Briefwechsel  ( (ProjektleiterIn ...., TeilnehmerIn ....) supported from  Max Hadersbeck/Joseph Wang)
-[zum Teilprojekt Management](/E_brief/README.md)
+[zum Teilprojekt Management](/E_Brief/README.md)
 
 ### O : OCRteam ( (ProjektleiterIn ...., TeilnehmerIn ....) supported from Florian Landes)
 [zum Teilprojekt Management](/O_ocr/README.md)
