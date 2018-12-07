@@ -37,7 +37,7 @@ in der Woche vom 25.2. bis zum 1.3.2918
 [zum Teilprojekt Management](/N_nlp/Readme.md)
 
 ###  W : WebManagement (ProjektleiterIn ...., TeilnehmerIn ....)  supported from  Max Hadersbeck/Sebastian Still)   
-[zum Teilprojekt Management](/W_web/README.md)
+[zum Teilprojekt Management](/W_web/Readme.md)
 
 
 # WAST-Master-2018
