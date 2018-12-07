@@ -16,4 +16,5 @@
 * Compiling: https://gitlab.cis.uni-muenchen.de/cis/eos/blob/master/doc/compiling.md
 
 * XML-Strip und XML-Merge mit Tool von Azada siehe https://gitlab.cis.uni-muenchen.de/BA-MH-2017/koreferenzen/tree/coref/Code  Bachelorarbeit von Oksana Budurova.
+ Das Tool befindet sich unter: https://gitlab.cis.uni-muenchen.de/BA-MH-2017/koreferenzen/tree/development/Code/examples
 
