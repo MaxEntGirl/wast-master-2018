@@ -1,0 +1,15 @@
+Siglum: b1912_08_16_an_RussellBertrand
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, 16. 8. 1912
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 15; deutsch: Briefe, S. 22; Cambridge Letters, S. 19; WiC, S. 34). 
+
+Text: 
+Dear Russell, Thanks for your letter. I am glad you read the lives of Mozart & Beethoven. These are the actual sons of God. Now as to "p ∨ q" etc: I have thought that possibility ‒ namely that all our troubles could be overcome by assuming different sorts of Relations of signs to things ‒ over & over & over again! for the last 8 weeks!!! But I have come to the conclusion that this assumption does not help us a bit. In fact if you work out any such theory ‒ I believe you will see that it does not even touch our problem. I have lately seen a new way out (or perhaps not out) of the difficulty. It is too long to be explained here, but I tell you so much that it is based on new forms of propositions. For instance: , which is to mean "the complex p has the opposite form of q's form". That means that  holds for instance when p is  & q is . Another instance of the new forms is   which means something like: "The form of the comp. r is composed of the forms of p & q in the way 'or'." That means that  holds for instance when p is , q is  & r is  etc. etc. The rest I leave to your imagination. All this however seems to me not half as important as the fact (if it is one) that the whole problem has become very much clearer to me now than it has ever been before. I wish you were here & I could tell you the whole matter for I cannot write it down; it is much too long! Also the app. var.-business has become by far clearer.
+Do write again soon!
+Yours most etc
+Ludwig Wittgenstein
+Oberalm bei Hallein
+Salzburg 16.8.12.
+I feel like mad.
+

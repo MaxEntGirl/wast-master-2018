@@ -1,0 +1,14 @@
+Siglum: b1912_07_01_an_RussellBertrand
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, 1. 7. 1912
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 12; deutsch: Briefe, S. 19; Cambridge Letters, S. 16; WiC, S. 31). 
+
+Text: 
+1.7.12.
+Dear Russell
+Thank you very much for your kind letter.
+Will you think that I have gone mad if I make the following suggestion?: The sign (x).φx is not a complete symbol but has meaning only in an inference of the kind: from  follows ψa. Or more general: from  follows φ(a). I am ‒ of course ‒ most uncertain about the matter but something of the sort might really be true. I am sorry I cannot spend as much time on thinking about this stuff as I would like to because I have to write a most absurd paper on rythms for the psychological meeting on the 13th. — I hear just now that a sister of mine is going to visit me here on the 6th. Would you mind me introducing her to you? She ought to see every thing worth seeing!
+Yours most etc
+Ludwig Wittgenstein
+

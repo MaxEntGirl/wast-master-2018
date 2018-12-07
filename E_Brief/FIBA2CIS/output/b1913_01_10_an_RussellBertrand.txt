@@ -1,0 +1,15 @@
+Siglum: b1913_01_10_an_RussellBertrand
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, [zw. 10. u. 20. 1. 1913]
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 19f.; deutsch: Briefe, S. 25f.; Cambridge Letters, S. 24f.; WiC, S. 38). 
+
+Text: 
+IV. ALLEEGASSE 16.
+Dear Russell,
+Thanks very much for both your kind letters! I cannot yet tell when I shall be able to come back to Cambridge, as the doctors are still quite uncertain about the duration of my fathers illness. He has not yet any pain but feels on the whole very bad having constantly high fever. This makes him so apathetic that one cannot do him any good by sitting at his bed etc. And as this was the only thing that I could ever do for him, I am now perfectly useless here. So the time of my staying here depends entirely upon wheter the illness will take so rapid a course that I could not risk to leave Vienna; or not. I hope I shall be able to decide this in a weeks time & I have told Fletcher so. ‒ I have changed my views on "atomic" complexes: I now think that Qualities, Relations (like Love) etc. are all copulae. That means I for instance analyse a subject-predicate prop, say, "Socrates is human" into "Socrates" & "Something is human["] (which I think is not complex). The reason for this, is a very fundamental one: I think that there cannot be different Types of things! In other words whatever can be symbolized by a simple proper name must belong to one type. And further: every theory of types must be rendered superfluous by a proper theory of the symbolisme: For instance if I analyse the prop. Socrates is mortal into Socrates Mortality &  I whant a theory of types to tell me that "Mortality is Socrates" is nonsensical, because if I treat "Mortality" as a proper name (as I did) there is nothing to prevent me to make the substitution the wrong way round. But if I analyse (as I do now) into Socrates & (∃ x) x is Mortal or generally into * it becomes impossible to substitute the wrong way round, because the two symbols are now of a different kind themselves. What I am most certain of is not however the correctness of my present way of analysis, but of the fact that all theorys of types must be done away with by a theory of symbolisme showing that what seem to be different kinds of things are symbolised by different kinds of symbols which cannot possibly be substituted in one another's places. I hope I have made this fairly clear! I was very interested to hear your views about matter, allthough I cannot imagine your way of working from sense data forward. Mach writes such a horrid style that it makes me nearly sick to read him; however, I am very glad that you think so much of a countryman of myne.
+Yours most etc.
+Ludwig Wittgenstein
+*Props which I formerly wrote  I now write R(a, b) & analyse them into a, b, & (∃ x, y) R (x, y)
+        not complex
+

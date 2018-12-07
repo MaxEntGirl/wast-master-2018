@@ -1,0 +1,18 @@
+Siglum: b1916_02_06_von_FregeGottlob
+
+Title: Von Gottlob Frege an Ludwig Wittgenstein, 6. 2. 1916
+
+sourceDesc:  Original im BA. Publiziert (Frege, S. 10).    Austria Innsbruck Forschungsinstitut Brenner-Archiv 11/12.5    
+
+Text: 
+Frege, Jena, Forstweg Nr 29
+An Ludwig Wittgenstein
+K u. K A. W. Z. Nro 1
+Feldpost Nro 12
+Jena, d. 6. Febr. 1916
+Sehr geehrter Herr Wittgenstein!
+Verzeihen Sie, dass ich erst jetzt dazu komme, Ihre Karte zu beantworten. Ich habe mich mit diesen Sachen auch nicht beschäftigt. Vielleicht handelt es sich um Folgendes. Man hat unendl. viele Gruppen von 3 Zahlen a, b, c, sodass . Es handelt sich nun vielleicht darum zu beweisen, dass eine solche Gleichung wie  durch ganze Zahlen nicht zu erfüllen ist, wenn n>2 ist.
+Herzlich grüsst Sie
+Ihr
+G. Frege.
+

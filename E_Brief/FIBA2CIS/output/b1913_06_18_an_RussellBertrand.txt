@@ -1,0 +1,13 @@
+Siglum: b1913_06_18_an_RussellBertrand
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, [vor 18. 6. 1913]
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 23; deutsch: Briefe, S. 28; Cambridge Letters, S. 29; WiC, S. 40). 
+
+Text: 
+Dear Russell,
+My mother will stay at the Savoy Hotel. So we shall expect you there on wednesday about 1-15. By the by, please remember that my mother must not know that I was operated last July (if by any chance the conversation should turn on such topics) 
+I can now express my objection to your theory of judgment exactly: I believe it is obvious that, from the prop. "A judges that (say) a is in the Rel. R to b", if correctly analysed, the prop " " must follow directly without the use of any other premis. This condition is not fullfiled by your theory.
+Yours ever
+L. W.
+

@@ -1,0 +1,66 @@
+Siglum: b1922_03_20_von_OgdenCharlesKay
+
+Title: Von Charles Kay Ogden an Ludwig Wittgenstein, 20. 3. 1922
+
+sourceDesc:  Original im BA.    Austria Innsbruck Forschungsinstitut Brenner-Archiv 11/24.1    
+
+Text: 
+The International Library of Psychology
+PHILOSOPHY AND SCIENTIFIC METHOD
+Editor:
+C. K. OGDEN, M.A.
+(Magdalene College, Cambridge)
+Publishers:
+KEGAN PAUL, TRENCH, TRUBNER & Co.
+BROADWAY HOUSE, CARTER LANE,
+LONDON, E. C.
+NEW YORK-HARCOURT, BRACE & Co.
+March 20th. 1922
+Dear Wittgenstein,
+I am sending registered to-day, as press matter, under a separate cover, the English translation of your book, incorporating all Russell's M.S. notes and some of his suggestions. He has looked at it in a general way, but wishes it now to be seen by you. The translation has been a difficult task, but as we have now decided, with Russell's approval, to print the German original on the opposite pages, the outcome is less important; and the appearance of the German in this way must be kept in mind.
+Will you please confirm a few queries, and make any improvements or suggestions you wish. The printers are now waiting, and have already got Russell's Introduction, so I hope you will be able to manage it without much delay.
+I am assuming you have a copy ot the printed version of the German, and can send finally approved copy of that? I have been unable to get from Ostwald or the Unesma Verlag more than the one (uncorrected) set of proofs sent in October and do not know whether it has appeared yet. I have ordered and paid for six copies from them, and from booksellers in Germany, but nothing has been sent!
+If you have not got the printed version, in order to let us have the spelling and appearance as you wish it, let me know at once, and I will send you my offprint.
+Please let me have your opinion about the title ‒ Moore suggested as obviously right
+Tractatus Logico-philosophicus.
+Against this Russell said that you would probably not like Latin, and suggested
+Philosophical Logic,
+which is not altogether satisfactory.
+I have divided the queries into General and special. Perhaps it will be easy for you to correct each point on the translation itself, as there will be other corrections, but I have left a space in case you make a note.
+Yours sincerely,
+C. K Ogden,
+P.S. There are many things which the translators have been puzzled by, but which do not affect the translation.
+2.1. "We make for ourselves pictures of facts". Are you here discussing psychology, or is Russell right in saying that this is an entirely non-psychological set of propositions? In 4.1121 we seem to have statements (a) That you are not concerned with psychology, and (b) That you are studying thought processes (which is commonly regarded as psychology).
+2.223 How can we do this?
+5.6331 Why not an isosceles triangle? Does not light go in straight lines?
+6.2 If this is meant to cover all mathematics is 'equation' used in the ordinary sense?
+We do not expect answers to these, but should be interested if you cared to comment.
+General.
+1. You will note that the translation has been kept very literal, in order not to run the risk of interpreting your language unjustifiably. This calls for your attention throughout, and perhaps we need only illustrate by one of many examples.
+Thus 2.0121 "only-possible". Not only is this very awkward in English, but it is not likely that many readers will understand you since when you add as an elucidation of your use of 'possible' 2.0122 "it is impossible for words to occur in two different ways" this is an equally hard saying. But if, as we suppose, the awkwardness and difficulty are equally great in German, we take it that you do not wish to throw further light on the matter.
+We feel, however, that the English is probably very much more awkward than is necessary. Perhaps you, with your knowledge of English, could make it more definitive: ‒ or at any rate as accurate as you think it can be.
+(2) In general please decide whether the use of Italics and quotation marks in connexion with symbols is as you wish it e,g. 5.15 and 5.151. We have, I think, followed the German, but greater uniformity seems desirable.
+(3) Throughout, the use of Die raises a question for English translation. It is more natural e,g, in 5.143 to translate by the indefinite article a. Please examine these cases to see if we have interpreted you rightly. The has been used wherever it was not unnatural in English.
+(4) Where Latin phrases like a priori occur it is usual to use Italics in English. This is not necessary, but at 3.04 we were using italics, and found later that this might cause confusion with your special emphasis use of italics. Shall we print therefore Latin not in italics through out, as in the German.
+In general please attend to the symbols, as in the printed German there seem to be many errors, and in your manuscript 3.333 we have queried. As regards the symbolism, we naturally want it as simple as possible for the printers.
+Special points.
+2.1512
+2.1515 Co-ordinations?
+2.1515 feelers? Is this the right word. Or is it a technical term (guage?) for the ends of a measuring instrument?
+2.021. Compound? Seems to be the right word here, after much thought.
+2.181 Alternative translation Ist = since. Which do you prefer?
+3.333 Should not the bracket after Fu" be omitted?
+2.15 "its form of representation". Is this correct. Is it the same or different from 2.151 "the form of representation." It has been suggested that the proper way to translate "its form of representation" is "its projective form" ‒ or would this be in conflict with 3.11.
+2.023. Does not this conflict with 2.13? Are both as you wish them?
+3.11. 'Sense' in English as in German is particularly ambiguous (See 2.0211, 3.144, 4.014, 402, 4.022, etc.) Shall we keep the same word in English where there are also other terms such as 'reference' 'direction' 'import'?
+4.0141 See Supplement No.72. What is this? There is presumably some mistake.
+5.12 Is not the German in the wrong order? We have interchanged 'second' and first.
+5.152 Anwendung. Might not this be more explicit?
+Truth-ground. Is this right, or should it be truth-argument. (If Truth ground would you not be including the case of a proposition and its contradictory as independent.)
+5.47 im vornherein beforehand?
+5.4731 unlogically illogically. Compare unmoral and immoral. See 3.03 and 3.031.
+5.515 "denn das Symbol". Should not this be plural?
+5.5563 So wie sie sind. How translate?
+5.631. We have altered the construction to make it read smoothly.
+6.32 We find this on your M.S. Shall we omit it or do you incorporate it as your own?
+

@@ -1,0 +1,24 @@
+Siglum: b1927_07_02_an_RamseyFrankPlumpton
+
+Title: Von Ludwig Wittgenstein an Frank Plumpton Ramsey, 2. 7. 1927
+
+sourceDesc:  Original bei Hermann Hänsel; Kopie im BA . Publiziert (deutsch: Briefe, S. 160ff.; Cambridge Letters, S. 216ff.; WiC, S. 158f.). 
+
+Text: 
+Wien 2.7.1927
+Dear Mr Ramsey,
+Prof Schlick lent me your book "The foundations of Math." & asked me to give him my opinion about it. As I don't agree with one of your main points I told Prof. Schlick my objections & I think I ought to let you know them too; for I'm sure you would oblige Prof Schlick greatly by writing to him your answer to my criticism. I will now try to explain my point.
+You define x = y by
+. ----------- Q (x, y) & you justify this Definition by saying that Q (x, y) is a tautology whenever "x" and "y" have the same meaning, and a contradiction, when they have different meanings.
+I will try to show that this definition won't do nor any other that tries to make x = y a tautology or a contradiction.
+It is clear that Q (x, y) is a logical product. Let "a" and "b" be two names having different meanings. Then amongst the members of our product there will be some such that f(a) means p and f(b) means ~p. Let me call such a function a critical function fk. Now although we know that "a" and "b" have different meanings, still to say that a = b cannot be nonsensical if a ≠ b is to have any sense. For if a = b were nonsensical, the negative proposition, i.e. that they have the same meaning, would be nonsensical too, for the negation of nonsense is nonsense. Now let us suppose, wrongly, that a = b, then, by substituting a for b which must be legitimate if we have given a = b the right meaning in our logical product the critical function fk(a) becomes nonsensical (being ambiguous) and, consequently, the whole product, too. On the other hand, let "c" and "d" be two names having the same meaning, then it is true that Q (c, d) becomes a tautology. But suppose now (wrongly) c ≠ d, Q (c, d) remains a tautology still, for there ist no critical function in our product. And even if it could be supposed (which it cannot) that c = d; surely a critical function fk (such that fk(c) means p fk(d) means ~p) cannot be supposed to exist, for the sign fk( ) in this case becomes meaningless. Therefore, if x = y were a tautology or a contradiction and correctly defined by Q (x, y), Q (a, b) would not be contradictory, but nonsensical (as this supposition, if it were the supposition that "a" and "b" had the same meaning, would make the critical function nonsensical). And therefore ~Q (a, b) would be nonsensical too, for the negation of nonsense is nonsense.
+In the case of c and d, Q(c, d) remains tautologous, even if c and d could be supposed to be different (for in this case a critical function cannot even be supposed to exist).
+I conclude: Q (x, y), is a very interesting function, but cannot be substituted for x = y.
+The mistake becomes still clearer in its consequences, when you try to say "there is an individual". You are aware of the fact that the supposition of there being no individual makes
+(∃x).x = x    E
+"absolute nonsense". But if E is to say "there is an individual" ~E says: "there is no individual". Therefore from ~E follows that E is nonsense. Therefore ~E must be nonsense itself, and therefore again so must be E.
+The case lies as before. E, according to your definition of the sign "=" may be a tautology right enough, but does not say "there is an individual". Perhaps you will answer: of course it does not say "there is an individual" but it shows what we really mean when we say "there is an individual". But this is not shown by E, but simply by the legitimate use of the symbol (∃x).., and therefore just as well (and as badly) by the expression ~(∃x).x = x. The same, of course, applies to your expressions "there are at least two individuals" and so on.
+That's all I've got to say. My objections are so very simple that I can hardly make myself believe that you haven't noticed & refuted those dif[f]iculties yourself. Still I can't help thinking that they are real difficulties.
+Yours sincerely
+LWittgenstein
+

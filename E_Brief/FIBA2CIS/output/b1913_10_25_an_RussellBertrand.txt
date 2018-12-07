@@ -1,0 +1,29 @@
+Siglum: b1913_10_25_an_RussellBertrand
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, [zw. 25. 10. u. 28. 11. 1913]
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 33f.; deutsch: Briefe, S. 37ff.; Cambridge Letters, S. 47ff.; WiC, S. 50f.). 
+
+Text: 
+Dear Russell,
+Thanks for your letter & the typed stuff! I will begin by answering your questions as well as I can:
+1) Your question was ‒ I think ‒ due to the misprint (polarity instead of bipolarity) What I mean to say is that we only then understand a prop. if we know both what would be the case if it was false & what if it was true
+2) The symbol for ~p is a ‒ b ‒ p ‒ a ‒ b. The prop. p has two poles & it does not matter a hang where they stand you might just as well write ~p like this:
+ 
+etc. all that is "Important is that the new a-pole should be correlated to the old b-pole & vice versa wherever these old poles may stand. If you had only remembered the WF scheme of ~p you would never have asked this question (I think) In fact all rules of the ab symbolisme follow directly from the essence of the WF scheme.
+3) Wheter ab-fns & your truth-fns are the same cannot yet be decided.
+4) "The correlation of new poles is to be transitive" means that by correlating one pole in the symbolizing way to another & the other to a third we have thereby correlated the first in the symbolizing way to the third, etc. 
+For instance in
+a ‒ b ‒ a ‒ b p a ‒ b ‒ a ‒ b "
+a & b are correlated to b & a respectively & this means that our symbol is the same as a ‒ b p a ‒ b
+5) (p) p ∨ ~p is derived from the function p ∨ ~q but the point will only become quite clear when identity is clear (as you said) I will some other time write to you about this matter at length.
+6) Explanation in the typed stuff.
+7) You say, you thought that "Bedeutung was the fact" this is quite true, but remember that there are no such Things as facts & that therefor this prop. itself wants analysing! If we speak of "die Bedeutung" we seem to be speaking of a Thing with a proper name. Of course the symbol for "a fact" is a prop. & this is no incomplete symbol.
+8) The exact a b-indefinable is given in the manuscript.
+9) An account of general indefinables? Oh Lord! It is too boring!!! Some other time! ‒ Honestly ‒ I will write to you about it some time, if by that time you have not found out all about it. (Because it is all quite clear in the manuscript, I think) But just now I am so troubled with Identity that I really cannot write any long jaw. All sorts of new logical stuff seems to be growing in me, but I can't yet write about it ‒
+Would you do me a great favour: I have promised last year to book two serial tickets for the C. U. M. S. Chamber Concerts. Would you kindly book them for me, ceep one of them for yourself, give the other to somebody else & charge me for both. If you let me know the prize I shall send you the money at once. Pray for me & God bless you! (If there is such a thing).
+Yours as long as
+(∃x).x = L.W.*
+* This prop will probably turn out to have no meaning.
+Write again soon.
+

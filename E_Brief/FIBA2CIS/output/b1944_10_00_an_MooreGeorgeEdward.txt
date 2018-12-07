@@ -1,0 +1,15 @@
+Siglum: b1944_10_00_an_MooreGeorgeEdward
+
+Title: Von Ludwig Wittgenstein an George Edward Moore, [Oktober 1944]
+
+sourceDesc:  Original bei Timothy Moore; Kopie im BA. Publiziert (Letters, S. 177; deutsch: Briefe, S. 218f.; Cambridge Letters, S. 315ff.; WiC, S. 365). 
+
+Text: 
+Trinity Coll.
+Friday
+Dear Moore,
+I should like to tell you how glad I am that you read us a paper yesterday. It seems to me that the most important point was the 'absurdity' of the assertion "There is a fire in this room & I don't believe there is." To call this, as I think you did, 'an absurdity for psychological reasons' seems to me to be wrong, or highly misleading. (If I ask someone "Is there a fire in the next room?" & he answers "I believe there is" I can't say: "Don't be irrelevant. I asked you about the fire, not about your state of mind!") But what I wanted to say was this. Pointing out that 'absurdity' which is in fact something similar to a contradiction, though it isn't one, is so important that I hope you'll publish your paper. By the way, don't be shocked at my saying it's something 'similar' to a contradiction. This means roughly: it plays a similar role in logic. You have said something about the logic of assertion. Viz: It makes sense to say "Let's suppose: p is the case & I don't believe that p is the case", whereas it makes no sense to assert "|‒ p is the case & I don't believe that p is the case". This assertion has to be ruled out & is ruled out by 'common sense', just as a contradiction is. And this just shows that logic isn't as simple as logicians think it is. In particular: that contradiction isn't the unique thing people think it is It isn't the only logically inadmissible form & it is, under certain circumstances, admissible. And to show this seems to me the chief merit of your paper. In a word it seems to me that you've made a discovery, & that you should publish it.
+I hope to see you privately some day.
+Yours sincerely
+L. Wittgenstein
+

@@ -1,0 +1,163 @@
+Siglum: b1922_04_23_an_OgdenCharlesKay
+
+Title: Von Ludwig Wittgenstein an Charles Kay Ogden, 23. 4. 1922
+
+sourceDesc:  Original an der ÖNB (Autogr. 1270/42-9); Kopie im BA. Publiziert (Ogden, S. 19ff.). 
+
+Text: 
+Dear Ogden,
+Now I think I have finished the correction of both the german and the english text. I have taken great pains but especialy as regards the english. I don't know if I have succeeded. It is a difficult business! Enclosed I am sending you 4 sheets with remarks on special points. Please kindly read them through carefully every one for there are some points in them which I think are rather important (as far as anything can be important in this affair).
+Now I will make some general remarks first:
+(1) The translation, as you saied, was in many points by far too literal. I have very often altered it such that now it doesn't seem to be a translation of the German at all. I've left out some words which occur in the german text or put in some which don't occur in the original etc. etc. But I allways did it in order to translate the sense (not the words).
+(2) Wherever I made some alteration I have made a sign thus V at the margin in the same line in which the alteration was made. Likewise I made a V where I suggested some alteration in my remarks. And finally there are some V's to which there correspond no alterations or suggestions which I only made because I thought the translation might want altering and afterwards found out it didn't. ‒ Thus in every line in which there is an alteration made or suggested in the remarks, there is a mark V, but not vice versa.
+(3) It has happen[e]d several times that I altered the translation and found out afterwards that the translation had been all right as it was. Then I crossed out my alteration and put a sign thus ....... underneeth the original translation, as much as to say "I beg your pardon, it was allright".
+(4) Wherever there occur symbols which are not my own invention they should be Russells. In my typescript I have used others, only because Russells symbols could very often not be typed and I was to lazy to put them in afterwards. Thus where I used "/" for "not" put Russells "~"; where I used "C" for "implies" put Russells "⊃"; When signs like "fa" or "fx" occur I very often wrote "f(a)" or "f(x)" in the original but I am now leaving the brackets out. So whenever "f(x)" occurs I've crossed the brackets out thus "f(x)" which means that the sign is to be printed "fx" simply.
+(5) The signs „‒“ (I don't know what you call them) I have very often written as I am accustomed in German thus „‒“ instead of thus "‒". So wherever I have written them wrongly just put them right.
+(6) I had rather not use Italics where latin phrases occur for the very reason you mentioned. Otherwise the use of Italics and quotation marks (that's the word) was all right except where I have altered it.
+(7) I have read through your remarks carefully. My answers to them are embodied in my remarks. Where there is no answer this means that the translation is allright as it is.
+(8) As to  Zeichnung   you will see from my correction as well as from the german that the prop had been mutilated. The figure schould be like this  Zeichnung   and not  Zeichnung  ; because this is how people very often imagine the shape of the field of vision to be. This, by the way, has nothing whatever to do with light going in strai[gh]t lines.
+I'm sorry I am giving you so much trouble with those silly figures, symbols etc. etc., but I don't know how to help it! Unless by leaving out some props and writing in a footnote that something has been left out.
+(9) As to the title I think the latin one is better than the present title. For allthough "Tractatus logico-philosophicus" isn't ideal still it has something like the right meaning, whereas "Philosophic logic" is wrong. In fact I don't know what it means! There is no such thing as philosophic logic. (Unless one says that as the whole book is nonsense the title might as well be nonsense too.)
+(10) Wherever I want to begin a new line where there is none in the typescript yet I put a bracket [. And where I want a line to beginn further to the right I made a sign thus [→.
+(11) I supose I needn't mention that my preface must be printed immediately before the main text and not as in Ostwalds Edition Russells Introduction in between the preface and the book!
+(12) As in the preface there are no numbers I have for the sake of reference written 1,2,3,4,5,6, on such lines about which I made a remark. The first remark I made to No 3. Of course these numbers must not be printed.
+(13) The word "Sachlage" has been translated "state of affairs". Now I don't like this translation but don't know what to suggest in its place. I have thought of the latin "status rerum" (?) would this be better? ‒
+________________________
+Now I cann't think of any more remarks. I hope I may have succeeded in making myself understood. If my explanations are rather lengthy please excuse this. I don't mind so much if they are tiresom if only they are clear.
+I now understand that the translators must have had an awfull job. Please give them my best thanks, they have done there work excelentely. I wish I had done mine half as well.
+I, too, hope we may meet again some day.
+Yours sincerely
+Ludwig Wittgenstein
+Trattenbach 23./4.22.
+bei Kirchberg am Wechsel
+Nieder-Österreich
+P.S. Please beginn each number as you did in the typescript in the way one general beginns a new line and not as Ostwald did.
+3 instead of: "to set a limit" I propose "to draw a limit".
+4     "       "     "be set in"               "        "be drawn in".
+5 leave out "whatever"
+6 On the other hand the truth of the thoughts communicated here seems to me unassailable.....
+_______________________________
+Leave out the title on the first page where I have crossed it out.
+1.11 "...by the facts, and by these being all the facts" or "...and in that these are..." isn't the first alternative better?
+2.011 wouldn't it be english to say "...a thing that it can be a constituent part..." instead of "that it schould be able..."? If the first isn't awkward please put it in.
+2.0121 "gleichsam" doesn't mean "likewise" (this means gleichfalls). The prop schould be something like: "It would, {as it were or so to speak}, apear as an accident..." choose between these two
+"Verband" in the end of the prop means "context" not "connexion". I hope it is all right as I have corrected it.
+2.02331. Instead of "otherwise it is distinguished" put "for otherwise it {would be or were} distinguished". I don't know which is correct.
+2.03. Here instead of "hang one on another" it should be "hang one in another" as the links of a chain do! The meaning is that there isn't anything third that connects the links but that the links themselves make connexion with one another. So if "in" in this place is english please put it there. If one would hang on the other they might also be glued together.
+2.15. "its" in the last line means the pictures. If this isn't clear put "the form of representation of the picture".
+2.1515 Here by "Fühler" I meant the things which a butterfly has. If these are called "feelers" it's all right.
+2.22. Should it not be "falshood" rather than "falsity"?
+3.001. I don't know how to translate this. The German "Wir können uns ein Bild von ihm machen" is a phrase comonly used. I have rendered it by "we can imagine it" because "imagine" comes from "image" and this is something like picture. In german it is a sort of pun you see.
+In 3.142 I should propose to put "mixture" instead of "medley". What this proposition means is that propositions do not consist of words in that sense in which a colour which a painter uses consists of different tints. I.e. that the prop. isn't a mixture of words in the sense in which a colour may be a mixture of other colours. The main stress does not lie on the point that the proposition isn't a disordered higgledypiggledy sort of combination of words, but merely on the point that it is no mixture at all but a strukture.
+In the end of that prop. cou[l]dn't one say "is articulate" instead of "articulated"? I didn't mean yet to say that the prop is articulated but I used the word "artikuliert" in the sense in which one might say that a man speeks artikulate that is that he pronounces the words distinctly. Or do you in that case also say "articulated"? If so please leave it as it stands if not put "articulate".
+3.251 About this prop. please consider what I said about 3.142
+Here two pages have to be interchanged
+3.3 Put "context" instead of "connexion" if that's english.
+3.317 At the end of this prop. there is something left out. The German of it is: "Wie die Beschreibung der Sätze geschieht, ist unwesentlich" (This ‒ by the way ‒ begins a new line). English: "The way in which we describe the propositions is unessential."
+3.322. Shouldn't it be: "...and where would then be what was common in the symbolisation?"?
+3.323 Instead of "...of the fact that something happens." I would rather write "...of something happening."
+3.325 Wouldn't it be better to put instead of "sign language" "symbolism"
+3.327 I propose: "The sign determines a logical form only together with its logical..."
+3.328 Here I made the translation more explicit than the german text (The original translation was quite wrong)
+3.3421 Isn't "symbolisation" clumsy? Wouldn't "symbolising" be better? I am not sure.
+4.002 "From it is humanly impossible..." oughtn't it to be "From it it is humanly..." or "It is humanly impossible to gather from it immediately the logik...". Or is "to gather" not english in this context?
+4.01. "As we think of it" isn't what I mean. What I mean is, roughly speaking, that a prop is a model of reality as we imagine it (i.e. as we imagine reality).
+4.0011. The end of this prop. ought to be (I think): "And yet these {sign-languages or symbolisms} prove to be pictures ‒ even in the ordinary sense of the word ‒ of {the things or what} they represent". (I like the second alternatives better)
+4.012 "aRb" not "a Rb"
+4.014 Ought it not to be "...all stand to one another in that pictorial..."?
+4.0141 There was a supplement bound with the M.S. Ostwald has got and in this there are props of which I wasn't sure wether I should incorporate them into my work or not. In fact only one has been taken into the book and that was the N° 72 which runs: "Daß es eine allgemeine Regel gibt, durch die der Musiker aus der Partitur die Symphonie entnehmen kann, durch welche man aus der Linie auf der Grammophonplatte die Symphonie und nach der ersten Regel wieder die Partitur ableiten kann, darin besteht eben die innere Ähnlichkeit dieser scheinbar so ganz verschiedenen Gebilde. Und jene Regel ist das Gesetz der Projektion, welche die Symphonie in die Notensprache projiziert. Sie ist die Regel der Übersetzung der Notensprache in die Sprache der Grammophonplatte."
+In english: "In the fact that there is a general rule by which the musician is able to read the symphony out of the score, and that there is a rule by which one could reconstrukt the symphony from the line on a grammophon record and from this again ‒ by means of the first rule ‒ construct the score, herein lies the internal similarity between these things which at first sight are seem to be entirely different. And the rule is the law of projection which projects the symphony into the language of the musical score. It is the rule of translation of this language into the language of the grammophon record."
+4.015 Here instead of likenesses the plural form of "simile" would ‒ I think ‒ be better. This prop. in english seems to me very awkward and unclear but I can't mend it. Would it perhaps be better to put instead of "...of the whole pictorial nature..." "of all the imagery of our language"?
+4.022 2nd line. This ought to be something like: "The prop. shows how things stand, if it is true. And it says, that so they stand." The German "wie es sich verhält, wenn..." is quite a general expression for any fact; it does not mean things are connected etc..
+4.023 This prop I cannot translate. The present translation is wrong. The meening of it should be that a prop. determines reality such that by merely affirming or denying it one can make it agree with reality. A prop. cann't entirely determine reality for it allways can either be true or false; but it can only be true or false. That means the prop determines reality so far that one only needs to say "yes" or "no" to it, and nothing more, to make it agree with reality. It is like fixing ‒ say ‒ a shelf on the wall with one nail and saying: now this is fixed so far that I only need turn it this or that way and it will be right. What I have here underlined thus ____________ or something like it might serve as a translation if nothing better is suggested.
+The second part: "It must therefore be completely described..." is all right.
+In the end of this prop "how everything logical is connected" is wrong. "Es verhält sich so und so" does not meen "things are connected such and such" see N° 4.022 but it is a general expression like "such & such is the case"! One might translate it freely thus: "...and therefore one can actually see in the proposition all the logical features of reality if it is true."
+4.025 Instead of "And the dictionary translates not only..." wouldn't it be better: "And the dictionary doesn't only translate..."?
+4.032 Here "articulated" is right!
+4.04 This doesn't seem to me quite clear. I think it would be clearer what was meant if it ran: "...there must be exactly as many things distinguishable as..." although this is rather clumsy. But it gives the right meaning.
+4.062 Instead of "Can we not come to an understanding..." I propose "Can we not make ourselves understood by means of false props..." This seems to me to give the meaning more correctly but I'm not sure. Here again "wenn es sich so verhält..." doesn't mean "if things are so connected".
+4.112. Isn't clarification a very clumsy word? Especially in its second occurrence. Couldn't one say: "...but the geting clear of propositions." Or is this still more awkward?
+4.12 Here in the 2nd line I should leave the "the" out, but as Russell has put it in I didn't dare to strike it out.
+4.1211 Instead of "...that mention is made of the same object in them both." I propose "...that they are both about the same object."
+4.122 "The Existence of such..." seems wrong. That a relation exists cannot be asserted at all. What we can assert is that it holds between certain objects. So put "holding" instead of "existence" or something synonymous.
+4.123 Should it not be "(Here to the shifting use of the words 'property' and 'relation' there corresponds the shifting use..." instead of "(Here there corresponds..."?
+4.1252 It would be clearer if the terms of the series "aRb", "(Ex) : aRx.xRb" etc were printed one below the other thus:
+"aRb"
+"(Ex) : aRx.xRb"
+"(Ex,y) : aRx.xRy.yRb"
+etc.
+4.126 Instead of "number sign" put either "sign of number" or "numerical sign".
+"Denn ihre Merkmale, die formalen Eigenschaften... " Here the word "Merkmal" is taken from Freges terminology. He calls "Merkmale" of a concept the properties which a thing must have in ordre to fall under the concept as an object belonging to it. ‒ Now I don't know if one can here translate "Merkmal" by "characteristic". Russell is sure to know the proper translation of "Merkmal" in the above sense. The same applies in a later part of this prop.
+4.1272 Couldn't "Scheinbegriff" be translated by "pseudoconcept"?
+And later on in the same prop. instead of "apparent propositions" couldn't it be "pseudopropositions" or is this clumsy?
+Instead of "'There are X objects'" it must be "'There are ℵ0 objects'" where ℵ0 is a hebrew letter Aleph with the suffix 0 used in mathematics for an infinite number. I am not sure ‒ however ‒ if I write it correctly. It also occurs in the "Principia Mathematica".
+4.128 Here the word "special numbers" does not give the right meaning, I think. What I meant was that in logic there are no numbers which are in any sense more important or of any greater significance, in any sense preeminent, as compared with the rest of numbers. Such for instance many people believe that the number one is such a number or the number 3. And if ‒ for instance ‒ there was in logic a definite number of primitive props or of primitive ideas ‒ say the number one or any other ‒ then this number would have, in some sense, to prevail all through logic and consequently also throughout philosophy. It would then be a number more important than the rest, an "ausgezeichnete Zahl". I have put "preeminent" instead of special. If this won't do please alter it. (But don't leave "special")
+4.28 Wouldn't "falsehood" be better than "falsity"? I don't know. The same applies to 4.41 etc.
+4.411 "von vornherein" doesn't mean "a priori". It should be something like: "It is probable from the very beginning that the bringing in of..." or "It seems probable even on first sight..."
+4.442 Instead of "proposition sign" put "propositional sign" or "sign of a proposition".
+4.464 Here as in the preceeding prop. there is a great difficulty about the use of "the". I would rather leave it out alltogether before "tautology" and "contradiction". But if this is impossible rather put "a" instead of "the". So 4.464 would be: "The truth of tautology is certain, of propositions possible, of contradiction impossible." Here I have put "tautology" and "contradiction" in the singular and "propositions" in the plural deliberately because there are in fact no contradictions but there is only contradiction, for they all mean the same, i.e. nothing. And the same applys to tautology.
+4.5 In the end of this prop. "Es verhält sich so und so" doesn't mean "Things are combined in such and such a way" but ‒ as I have mentioned above ‒ it means something like "such and such is the case". This is the only english expression I know for it. Perhaps one could say "things stand such and such". The expression must be one used in every day language to express that something or other is the case.
+5.101 Here the symbols in brackets on the right hand side (i.e. the symbols which follow the words) should be printed in Russells symbolism as used in the Principia Mathematica. In my M.S. they are different only because one couldn't write them otherwise with the typewriter. The props in Russells symbolisme should be in square brackets
+Thus:
+"(TTTT)(p,q) Tautology (p implies p, and q implies q) [p ⊃ p . q ⊃ q]
+(FTTT)(p,q) in words: Not both p and q [~(p. q)]"
+The expressions in words are not put in brackets except in the case of tautology and contradiction where they have to stand in round brackets as they do.
+5.12 Your correction, the transposition of "first" and "second", is quite right.
+5.1311 Here as in the whole book the symbolisms for "not" (~) and "or" (∨) should be Russells (Principia Math.) As symbol for "neither p nor q" please use "p│q". So that part of the prop becomes:
+"But if we write e.g. instead of 'p ∨ q' 'p│q. │. p│q' and instead of '~p' 'p│p' (p│q = neither p nor q)..."
+So don't use shreeks in the printing but simply upright dasches "│". I used "!" only because I had no other type for it.
+5.1361 "Belief in the causal nexus is superstition" isn't right. It ought to be: "Superstition is the belief in the causal nexus". I didn't mean to say that the belief in the causal nexus was one amongst superstitions but rather that superstition is nothing else than the belief in the causal nexus. In the german this is expressed by the definite article before "Aberglaube".
+5.143 Here in the first line I first crossed out Russells note but found afterwards that I could think of no better translation myself.
+In the second and third occurrence of "contradiction" and "tautology" in this prop. the article in english must, I think be left aut alltogether to give the right meaning. It may be left aut in the first occurrence too.
+5.252 Isn't "Only so..." awkward? Wouldn't "Only thus..." or "Only in this way..." be better?
+5.42 Here the symbols should be Russells as above. The same applys to 5.43 where it should be "~~p" instead of "││p" etc, etc,
+5.43 "von vornherein" doesn't mean "a priori" but something like "from the very beginning" but here you had better leave it out alltogether in the translation.
+5.441. Here the symbols ought to be "~(Ex).~fx" and "(Ex).fx.x=a".
+5.451 Here my correction (striking aut "the same thing by" etc.) seams wrong but it is all right! What the translation said was quite true but it didn't say what I meant.
+5.452 In the 3rd line from below is it english to say "...has proved itself necessary..."? Should it not be "...has proved necessary..." or "...has proved to be necessary..." or "has turned out to be necessary..."?
+5.453 About the prop "Es gibt keine ausgezeichneten Zahlen" I have made my remarks above. Please translate it as in its first occurrence (4.128). I propose "There are no preeminent numbers" but perhaps there is something better for it.
+5.461 "...is full of significance." Isn't this very awkward? Wouldn't it be better to say "...is of great importance." or something like this?
+5.473 Here the last line but one seems to me wrong. It should ‒ I think ‒ be something like: "...but not because of the symbol beeing unpermissible in itself." For the symbol is as a matter of fact not unpermissible. Whereas from the english as it stands it would appear as if the symbol was unpermissible and as if all I wanted to say was that the senselessnes of the proposition didn't arise from the use of that unpermissible symbol. In german my meaning is expressed by the use of "wäre" (conjunctive mode)
+5.4731 I think in the end it ought to be "illogically" instead of "unlogically". But I'm not certain.
+5.4733 I know that "legitimately" instead of "rightly" seems very awkward but I think this cann't be helped here.
+5.5 In the expression "(-----T)(ζ...)" the space between the two brackets should be not larger than in the symbol "(TTTT)(p,q)" etc. in the prop. 5.105. It is all right in the german text.
+5.513 If "What is common..." isn't good english put "that which is in common..." instead; but not "the common element..."
+5.514 last line: wouldn't "is mirrored" be better than "mirrors itself"?
+5.5261 This would be clearer if the prop. in brackets was "(This is shown by the fact that in '(Ex, ϕ).ϕx' we must mention 'ϕ' and 'x' separately.)" please put it thus.
+5.535 I propose "pseudopropositions" instead of "apparent propositions"
+4.003 The end of this prop. has been left out it begins a new line and runs thus:
+"Und es ist nicht verwunderlich, daß die tiefsten Probleme eigentlich keine Probleme sind."
+English something like: "And it isn't to be wondered at that the deepest problems are realy no problems.
+This comes after "...is more or less identical than the beautifull."
+5.25 Wouldn't it be better to put "only its result does" instead of "only its result does that."
+5.542 "...via co-ordination...", I think, is wrong. It ought to be something like "...coordination of facts by means of a coordination of their objects."
+5.5423 Should it not be "...that its constituents are combined in such..." instead of "...are combined together in such..."?
+5.552 "...that things are combined in such & such a way..." is wrong (as twice before) It should be something like: "...that such and such is the case..."
+5.551 "And if we get into a situation where we need to answer..." If this is too clumsy, simply put "And if we ever need to answer...".
+5.553 Here instead of "special" you will have to put the same word as in N° 4.128 and N° 5.453.
+5.5542 "May we not then ask..." I think "not" ought to be left out. Because the correct answer to this question would be, that we may not! Whereas as the translators put it one would expect the answer: we may.
+5.61 (last line) "...therefore also say" seams to me quite unenglish. If it realy is so simply leave it out. Or would it be correct to say: "we cannot therefore say either what we cannot think"? I would have put it that way but I don't know if it's english.
+5.62 Isn't "to deciding" clumsy? But I don't know what to suggest instead.
+6 I think "the" can be simply left out. If not put "propositions" & "funktions" and leave the "the" out in any case.
+6.111 Last 2 lines: Instead of "...and this is a certain sign of the fact that it was falsely conceived" I propose "...and this is a {safe or certain} symptom of it beeing falsely understood."
+6.121 "This method could be called a null-method." "Nullmethode" in German is an expression used in physics; when ‒ for instance ‒ you measure an electric resistance by regulating an other resistance untill the galvanometer points to 0 again we call this a "Nullmethode". Now there is sure to be an english word for it; but is it "null-method"? It should rather be "Zero-method" but I don't know.
+6.2341 This prop. now beginns in German: "Das Wesentliche der mathematischen Methode ist es, mit Gleichungen zu arbeiten."
+6.31 Is the end of this prop. english as I have put it? If not leave the "either" out.
+6.341 "Whatever kind of picture appears I can..." This is not clear. It must be something like: "Whatever kind of picture these [the spots] give..." or "Whatever kind of picture thereby appears on the white surface..." or something of that sort.
+6.342 Instead of "But this is what characterises the picture, the fact..." I would like to translate "But this does characterise the picture...". This has a slightly different sense and if it is english please put it thus.
+6.3431 Instead of "throughout" it must be "through". The word is used here in the same sense as when I say "I speak through a tube" or "I hear his voice through the wall" etc.
+6.361 "Only uniform connexions are thinkable" "uniform", I think, is wrong. To get the right expression please look up the english translation of Hertz's "Principles of Mechanics". In the German text it is "gesetzmäßige Zusammenhänge".
+6.362 Wouldn't it be better thus: "What can be described can happen too, and..."?
+6.372 This is wrong, it should be something like: "So people stop at the natural laws as at something..." The prop. means that people don't enquire any further their investigations stop there as if they now had explained everything.
+6.41 "...and if there were, it would have no value." I would propose "...and if there were, it would be of no value." This seems to me better and gives my meaning. Analogously in the next line instead of "...which has value..." I would put "...which is of value...".
+6.43 Last line but one: Isn't it possible to leave "man" out?
+6.4311 Last line: Instead of "limitless" I propose "without limit". The German "grenzenlos" is quite a usual expression whereas "limitless" in english, I think, is not.
+6.4312 Now here that part of the translation which I have crossed out, allthough it was much better English than what I wrote on top of it, was wrong. But it is very difficult to explain wherein the fault lies. My translation, too, is not good, and if it is too awkward please put something else instead of it. The Meaning of the German phrase I will try to explain: If for instance one trys to prove a proposition in Physics we make certain assumptions and hope that they will do our business; i.e. that they will prove the point in question i.e. that from them our proposition will follow. Now if we find that it doesn't follow then what we will say about our assumptions is exactely what I tried to express. I think one would say something like: "These assumptions will not do our business" or "they will not prove what we tried to prove with them" but one wouldn't say I supose "they will not effect what one wished to attain by them". If my translation won't do perhaps the best thing will be to make the statement more explicit in the english and write: "...but this assumption...will not solve the problem for us which {men we} allways {tried to would} solve by it" or something of that sort.
+There is another difficulty about this prop still. "Rätsel" has been translated with "riddle". Now I don't know if this is right. Possibly it is. The word "Rätsel" in German has two meanings. Such e.g. "why is a raven like a writing desk" we call a Rätsel. But we also talk of, say, the "Rätsel des menschlichen Lebens" or of the "Rätsel der Existenz der Welt" etc. and here the word "Rätsel" has a different meaning, it has a higher meaning. Now do you use "riddle" in this second sense also? If so, it is quite right. Only I don't whish that there should be anything ridiculous or profane or frivolous in the word When used in the Connection "riddle of life" etc..
+6.4321 Here "task" was all right but I'm not sure if "solution" is the right word. If e.g. you tell a man to dig a hole, then if he digs it, is the digging of it called the "solution" of the task you gave him? If so, "solution" is the right word.
+6.44 I don't like "mystical element". I supose one cann't say in english "the mystical" simply. If so, I would like it better.
+6.45 Here "mystical element" is wrong! If anything, it must be "mystical feeling" for in this prop. the german "das mystische" is an adjective belonging to "Gefühl".
+6.5 "The riddle" Here "The" must be printed in italics too. It means as much as "the riddle 'par excellence'" As to the word "riddle" see above.
+6.52 Is "be" right instead of "are" or should it be "were"? Allthough in german I did not use the conjunctive mode, I think in english "be" comes nearer to the real meaning.
+6.552 "the mystical element" This is the same case as in 6.44 but not the same as in 6.45.
+

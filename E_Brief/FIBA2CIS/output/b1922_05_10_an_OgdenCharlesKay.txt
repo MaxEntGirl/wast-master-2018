@@ -1,0 +1,40 @@
+Siglum: b1922_05_10_an_OgdenCharlesKay
+
+Title: Von Ludwig Wittgenstein an Charles Kay Ogden, 10. 5. 1922
+
+sourceDesc:  Kopie im BA. Publiziert (Ogden, S. 48ff.). 
+
+Text: 
+Trattenbach bei Kirchberg am
+Wechsel Nieder Österreich
+10.5.22.
+Dear Ogden,
+I hope you got my answer to your unregistered letter and I supose you cursed me for not sending the Ergänzungen. By the way ‒ printing my preface in German would make the book slightly biger and would prevent people to think, that I had the cheek to write an English preface and morover it would make the sense of the preface and the book plainer.
+About quotation marks and italics do as you please.
+F. P. Ramseys first remark rather puzzles me. What I wrote is precisely the same Ramsey means, only it's written in a slightly different notation which however is quite a usual one.  means exactely the same thing as . I didn't write  but the ν should be printed a little smaler and then  simply means that the ν is to run through all the values from 0 to n. Exactely the same applies to the second formula where  means the same thing as . I wrote  and not  which of course would be wrong. However to avoid misunderstandings you may just as well print the formulae in the way Ramsey wrote them.
+His second remark about the E was true. I had quite forgotten that Russell uses ∃ where I wrote E. Therefore it ought to be ∃ always in my book. Please alter it if it's possible. Russell was merely conforming to my text.
+Wherever I agreed with your translation I have put a + and if necessary have written a remark in the margin. To such points to which a longer remark is necessary I have put a ‒.
+Remarks
+Preface: "...if there were one person...". This gives my meaning for I realy meant one single by "Einem" but it sounds very odd in English and rather clumsy but if that cann't be helped leave it as it is.
+3.24 I wrote "symbolism" and not "symbol" for there isn't one symbol for generality but a whole complex e.g. in "(∃x).f(x)". But perhaps the word "notation" would be right. In fact I think it is. So the prop would become: "The notation for generality contains..." or "The generality notation..." but this I supose would be bad English.
+4.112 This seems to me wrong now. I think it cannot be the result of philosophy "to make props clear": this can only be it's task. The result must be that the props now have become clear that they are clear. Or can your translation be understood in this way also. If so, it's all right. If not rather leave "clarification". I supose one cann't say "the clearing up". Has this got a slightly different meaning?
+4.27, 4.42 See above.
+4.4611 If one cannot say "similarly as" one might perhaps say "...not however senseless; they are part of the symbolism in a way similar to that in which "0" belongs to the or is "part of the" symbolism of...". If this is English please put it thus, or something of the same meaning.
+5.523 Here I want to use symbol and not symbolism because I referr to the variable x or y etc in (∃ x, y)... and not to the whole complex of symbols as before. I own this is very dark but please leave "symbol" here and don't make it uniform with 3.24. Somebody may possibly understand me and if they don't never mind!
+5.535 "...This solves all problems...". This isn't what I meant to say! I said that all the problems which arise through Russells Axiom of Infinity are to be solved at this point. That is to say if a man wants to solve them, this is the point of the investigation where he must takle them, for here they all lie in nuce. I propose: "All the problems which arise {from or through} Russell's 'Axiom of Infinity'..." instead of "...is responsible"
+5.5563 "...logically completely ordered." By this I meant to say that the props of our ordinary language are not in any way logically less correct or less exact or more confused than props written down, say, in Russells symbolism or any other "Begriffsschrift". [Only it is easier for us to gather there logical form when they are expressed in an apropriate symbolism.]
+5.5563 As to "That most simple..." I wanted to use the expression in the same way in which one talks of the "highest good" or "the good and the beautifull". If however this is impossible in English leave "thing", allthough I don't like it a bit.
+5.62 You made no remark to this prop. Couldn't one say "...provides {the a} key to the decision of the question..."? Or "By means of this remark we can decide the question...". Perhaps this is better?
+6.342 "in question" seems to me wrong. There seems to be a misunderstanding: By "as is indeed the case" I meant to say "in which indeed it is described". And one might put it thus "...that it can be described in that particular way in which indeed it is described." If "as is indeed the case" does not give this sense please alter it in the way I suggested or something like it.
+6.3431 I think instead of "yet" I ought to have put "still" in a sense similar to that in which one might say: Allthough the wall is very thick still you hear his voice through it.
+"...the physical laws still speak of..." would this do? (If not leave "still" out.)
+6.34 Here you misunderstand my meaning entirely. I didn't mean to use "elucidate" intransitive: what I meant to say was:
+My props elucidate ‒ whatever they do elucidate ‒ in this way: etc.
+similarly I might have said "My props clarify in this way..." meaning "My props clarify whatever they do clarify ‒ say, the props of natural science ‒ in this way:...". Here clarify is not used intransitive allthough the object is not mentioned.
+You may put it thus: "My propositions elucidate philosophic matters in this way:...". This is something like the right meaning. Or "My props are elucidations in this way:..." but this I supose is bad. If nothing better is suggested and my first way of puting it realy won't do add "philosophic matters" as above.
+________________________________________________
+I hope I have made myself plain.
+Is Keynes still at Kings Coll. If so please remember me to him.
+Yours sincerely
+Ludwig Wittgenstein
+

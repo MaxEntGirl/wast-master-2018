@@ -1,0 +1,28 @@
+Siglum: b1919_08_19_an_RussellBertrand
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, 19. 8. 1919
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 71ff.; deutsch: Briefe, S. 88ff.; Cambridge Letters, S. 124ff.; WiC, S. 98f). 
+
+Text: 
+Dear Russell,
+Thanks so much for your letter dated 13 August. As to your queries, I cann't answer them now. For firstly I don't know allways what the numbers refer to, having no copy of the M.S. here. Secondly some of your questions want a very lenghty answer & you know how difficult it is for me to write on logic. That's also the reason why my book is so short, and consequently so obscure. But that I cann't help. ‒ Now I'm affraid you haven't realy got hold of my main contention, to which the whole business of logical props is only a corolary. The main point is the theory of what can be expressed (gesagt) by props ‒ i.e. by linguage ‒ (&, which comes to the same, what can be thought) and what can not be expressed by props, but only shown (gezeigt); which, I believe, is the cardinal problem of philosophy. ‒
+I also sent my M.S. to Frege. He wrote to me a week ago & I gather that he doesn't understand a word of it all. So my only hope is to see you soon and explain all to you, for it is very hard not to be understood by a single sole!
+Now the day after tomorrow we shall probably leave the Campo Concentramento & go home. Thank God! ‒ But how can we meet as soon as possible I should like to come to England, but you can imagine that it's rather awkward for a German to travel to England now. (By far more so, than for an Englishman to travel to Germany) But in fact I didn't think of asking you to come to Vienna now, but it would seem to me the best thing to meet in Holland or Switzerland. Of cors, if you cann't come abroad I will do my best to get to England. Please write to me as soon as possible about this point, letting me know when you are likely to get the permission of coming abroad. Please write to Vienna IV. Alleegasse 16. As to my M.S., please send it to the same address; but only if there is an absolutely safe way of sending it. Otherwise please ceep it. I should be very glad though, to get it soon, as it's the only corrected coppy I've got. ‒ My mother wrote to me, she was very sorry not to have got your letter, but glad that you tried to write to her at all.
+Now write soon. Best wishes.
+Ever yours
+Ludwig Wittgenstein 
+Cassino 19./8.19.
+P.S. After having finished my letter I feel tempted after all to answer some of your simpler points:
+1) "What is the difference between Tatsache and Sachverhalt?" Sachverhalt is, what corresponds to an Elementarsatz if it is true. Tatsache is what corresponds to the logical product of elementary props when this product is true. The reason why I introduce Tatsache before introducing Sachverhalt would want a long explanation.
+2) ".....But a Gedanke is a Tatsache: what are its constituents & components, & what is their relation to those of the pictured Tatsache?" I don't know what the constituents of a thought are but I know that it must have such constituents which correspond to the words of Linguage. Again the kind of relation of the constituents of thought & of the pictured fact is irrelevant. It would be a matter of psychology to find it out.
+3) "The theory of types, in my view, is a theory of correct symbolism: (a) a simple symbol must not be used to express anything complex; (b) more generaly, a symbol must have the same structure as its meaning."That's exactly what one cann't say. You cannot prescribe to a symbol what it may be used to express. All that a symbol can express, it may express. This is a short answer but it is true!
+4) Does a Gedanke consist of words? No! But of psychical constituents that have the same sort of relation to reality as words. What those constituents are I don't know
+5)"It is awkward to be unable to speak of ." This tuches [touches] the cardinal question of what can be expressed by a prop, & what cann't be expressed, but only shown. I cann't explain it at lenght here. Just think that, what you want to say by the apparent prop. "there are 2 things" is shown by there beeing two names which have different meanings (or by there beeing one name which may have two meanings). A prop e.g. φ (a, b) or (∃ φ, x, y).φ (x, y) doesn't say that there are two things, it saies something quite different; but whether it's true or false, it shows what you want to express by saying: "there are 2 things".
+6) Of corse no elementary props are negative.
+7) "It is necessary also to be given the prop that all elementary props are given". This is not necessary, because it is even impossible. There is no such prop!: That all elementary props are given is shown by there beeing none having an elementary sense which is not given. This is again the same story as in No 5.
+8) I supose you didn't understand the way, how I separate in the old notation of generality what is in it truth function & what is purely generality. A general prop. is a Truth function of all props of a certain form.
+9) You are quite right in saying that "" may also be made to mean ~p ∨ ~q ∨ ~r ∨ ~ ..... But this doesn't matter! I supose you don't understand the notations of "" It does not mean "for all values of ξ...." But all is said in my book about it & I feel unable to write it again. Try to understand it til we meet. I never thought I could write such long explanations as I've done now.
+ever yours
+L.W.
+

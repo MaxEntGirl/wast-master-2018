@@ -1,0 +1,21 @@
+Siglum: b1913_10_25_an_RussellBertrand_B
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, [zw. 25. 10. u. 28. 11. 1913]
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 35; deutsch: Briefe, S. 39f.; Cambridge Letters, S. 50f.; WiC, S. 52). 
+
+Text: 
+Dear Russell,
+There is the Check for 42 kroner. Thanks very much for having bought the tickets. You haven't yet sent me Miss Harwood's bill! ‒ The following is a list of the questions which you asked me in your letter of the 25.th10.:
+1) "What is the point of 'p.°.›p‹ is true'? I mean why is it worth saying"
+2) "if 'a p b' is the symbol for p, is 'b p a' the symbol for ~p? & if not, what is?
+3) "What you call ab-functions are what the Principia calls 'truth-fns' I don't see why you shouldn't stick to the name 'truth fns'."
+4) "I don't understand your rules about a's & b's, i.e. 'the correlation of new poles is to be transitive"
+5) (Is obvious from my letter) So is 6)
+7) "You say 'weder der Sinn noch die Bedeutung eines Satzes ist ein Ding. Jene Worte sind unvollständige Zeichen' I understand neither being a thing, but I thought the Bedeutung was the fact, which is surely not indicated by an incomplete symbol?"
+I don't know whether I have answered the question (7) clearly The answer is of course this: The Bedeutung of a prop is symbolized by the prop ‒ which is of course not an incomplete symbol, but the word "Bedeutung" is an incomplete Symbol.
+8) & 9) are obvious.
+write soon!
+Yours
+LW
+

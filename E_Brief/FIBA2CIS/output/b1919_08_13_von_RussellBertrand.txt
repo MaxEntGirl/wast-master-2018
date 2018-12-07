@@ -1,0 +1,40 @@
+Siglum: b1919_08_13_von_RussellBertrand
+
+Title: Von Bertrand Russell an Ludwig Wittgenstein, 13. 8. 1919
+
+sourceDesc:  Original im BA. Publiziert (Cambridge Letters, S. 121ff.; WiC, S. 96f.).    Austria Innsbruck Forschungsinstitut Brenner-Archiv 11/26.6    
+
+Text: 
+TEL. 161 BATTERSEA.
+70, OVERSTRAND MANSIONS,
+PRINCE OF WALES ROAD,
+BATTERSEA, S. W.
+13 August 1919.
+Dear Wittgenstein
+I have now read your book twice carefully ‒ There are still points I don't understand ‒ some of them important ones ‒ I send you some queries on separate sheets. I am convinced you are right in your main contention, that logical props are tautologies, which are not true in the sense that substantial props are true. I do not understand why you are content with a purely ordinal theory of number, nor why you use for the purpose an ancestral relation, when you object to ancestral relations. This part of your work I want further explained. Also you do not state your reasons against classes. I am sure you are right in thinking the book of first-class importance. But in places it is obscure through brevity. I have a most intense desire to see you, to talk it over, as well as simply because I want to see you. But I can't get abroad as yet. Probably you will be free to come to England before I am free to go abroad. ‒ I will send back your MS when I know where to send it, but I am hoping you will soon be at liberty.
+All best wishes. Do write again soon‒
+Yours ever
+B Russell.
+Wittgenstein
+2. What is the difference between Tatsache and Sachverhalt?
+3. "Das logische Bild der Tatsachen ist der Gedanke." Yes, I agree. But a Gedanke is a Tatsache: what are its constituents & components, & what is their relation to those of the pictured Tatsache?
+3.331. The theory of types, in my view, is a theory of correct symbolism: (a) a simple symbol must not be used to express anything complex; (b) more generally, a symbol must have the same structure as its meaning.
+4 & 4.001. "Der Gedanke ist der sinnvolle Satz." "Die Gesamtheit der Sätze ist die Sprache." Does a Gedanke consist of words? Compare 3 (above).
+4.112. I agree strongly with this number.
+4.1272 I suppose this hangs together with the rejection of identity. It is awkward to be unable to speak of Nc'∇. One could still say (∃φ,x).N
+              
+or            
+& I should have thought that from such props one could obtain a meaning for "there are at least 2 Gegenstände" → for you, "(∃x, y, φ) .φx . φy" would suffice. & similar statements. There are things that puzzle me in this number & the next.
+4.211. I gather no elementary prop is negative.
+4.51. It is necessary also to be given the prop that all elementary props are given.
+5.15 This theory of probability seems to me right.
+5.3 All props results of truth-operations on elementary props? How about generality?
+5.453. No numbers in logic? why?
+5.53 seq. on identity. I agree with this. But the connection with the axiom of infinity seems dubious. See remark on 4.1272 above.
+6. "General truth-function: "
+Yes, this is one way. But could one not do equally well by making  mean "at least one value of ξ is false", just as one can do equally well with
+~p ∨ ~q & with ~p . ~q as fundamental? I feel as if the duality of generality & existence persisted covertly in your system.
+6.03. "General form of integer: [ 0, ξ, ξ + 1]". You only get finite ordinals. You deny classes, so cardinals collapse. What happens to ℵ0? If you said classes were superfluous in logic I could imagine that I understood you, by supposing a distinction between logic & mathematics; but when you say they are unnecessary in mathematics I am puzzled. E.g. something true is expressed by . How do you re-state this prop?
+6.123 seq. This is convincing to me.
+I agree with what you say about induction, causality, etc.; at least, I can find no ground for disagreeing.
+

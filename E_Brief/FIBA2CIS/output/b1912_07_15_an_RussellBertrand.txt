@@ -1,0 +1,27 @@
+Siglum: b1912_07_15_an_RussellBertrand
+
+Title: Von Ludwig Wittgenstein an Bertrand Russell, [nach 15. 7. 1912]
+
+sourceDesc:  Original in The Bertrand Russell Archives der McMaster University; Kopie im BA. Publiziert (Letters, S. 13f.; deutsch: Briefe, S. 19f.; Cambridge Letters, S. 17f.; WiC, S. 32). 
+
+Text: 
+HOCHREIT
+POST HOHENBERG
+N.- Ö.
+Dear Russell,
+The above address & this perfectly earthly writing paper will show you that I am not in hell. In fact I am quite well again & philosophizing for all I am worth. What troubles me most at present, is not the apparent-variable-business, but rather the meaning of "∨", ".", "⊃" etc. This latter problem is ‒ I think ‒ still more fundamental &, if possible, still less recognized as a problem. If "p ∨ q" means a complex at all ‒ which is quite doubtfull ‒ then, as far as I can see, one must treat "∨" as part of a copula, in the way we have talked over before. I have ‒ I believe ‒ tried all possible ways of solution under that hypothesis & found that if any one will do it must be something like this: Let us write the prop. "from ⊢ p & ⊢ q follows ⊢ r" that way: "i[p; q; r]. Here "i" is a copula (we may call it inference) which copulates complexes. Then "" is to mean:
+"
+
+
+
+ ".
+If "p ∨ q" does not mean a complex, then heaven knows what it means!! ‒ Now I would like to know how you are & all about you! If you are so good to write to me, please write to the following address:
+L. W. junior (please don't forget this)
+bei Paul Wittgenstein
+Oberalm bei Hallein Salzburg
+Austria
+We have excellent weather here, such that one can do most thinking in the open air. There is nothing more wonderfull in the world than the true problems of Philosophy!
+Allways yours
+most etc.
+Ludwig Wittgenstein
+
