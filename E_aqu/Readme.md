@@ -1,7 +1,7 @@
 # Edition: Datenaquirierung: E_aqu
 
 # Member sind (bitte eintragen, Name, email-adresse)
-* xxx
+* Julian Höllig, j.hoellig@campus.lmu.de
 * xxx
 
 # Abgabetermin: zwischen 25.2. und 1.3.2019
@@ -13,7 +13,8 @@
 * Datums – Integration und WEB-Development
 
 * xml, xslt, Sortierung der Treffer, javascript [7,8,9]
-Arbeit mit XML Siehe: https://gitlab.cis.uni-muenchen.de/wast/wast-kurs-uebungen/tree/master/xml_tutorial
+Arbeit mit XML
+ Siehe: https://gitlab.cis.uni-muenchen.de/wast/wast-kurs-uebungen/tree/master/xml_tutorial
 Arbeit mit xslt und Transfer ORIG nach NORM
 Und https://gitlab.cis.uni-muenchen.de/wast/wast-kurs-uebungen/tree/master/xml_tutorial/witt-data/W2C
 
