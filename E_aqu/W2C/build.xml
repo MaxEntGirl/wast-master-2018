@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- ant project to transform protected wab files to cis-versions (15.000 pages)-->
+<!-- ant project to transform open access wab files to cis-versions (5.000 pages) -->
+<!-- main target:  dist
+    .... uses target download and target transform
+    
+    target download
+    ... gets all 20.0000 pages from WAB
+
+    target transform
+    ... xstl Transformation into NORM and TXT Files --> 
+<project basedir="." default="dist" name="ANTProject">
+ <property name="ciswab.outputdir" value="../ciswab/wab2cis/opensource_nachlass"/>
+ <property name="ciswab.oadir" value="./OAWAB"/>
+
+ <target name="dist" 
+ depends="transform">
+  <copy todir="${ciswab.outputdir}">
+   <fileset dir="${ciswab.oadir}">
+    <include name="**/*.xml"/>
+   </fileset>
+   <mapper type="regexp" from="^(.+)\.xml$" to="\1/orig/\1.xml"/>
+  </copy>    
+ </target>
+
+
+ <target name="transform" 
+  depends="transformNormalizedWAB2CIS,transformDiplomaticWAB2CIS,makeTextVersions">
+   </target>
+
+ <target name="transformDiplomaticWAB2CIS">
+  <xslt basedir="${ciswab.oadir}" style="wab2cis_diplomatic.xsl" destdir="${ciswab.outputdir}"
+   classpath="./saxon/saxon9he.jar" extension=".xml">
+   <mapper type="regexp" from="^(.+)\.xml$" to="\1/diplo/\1_DIPL.xml"/>
+  </xslt>
+ </target>
+ 
+ <target name="transformNormalizedWAB2CIS">
+  <xslt basedir="${ciswab.oadir}" style="wab2cis_normalized.xsl" destdir="${ciswab.outputdir}" force="YES"
+   classpath="./saxon/saxon9he.jar" extension=".xml">
+   <mapper type="regexp" from="^(.+)\.xml$" to="\1/norm/\1_NORM.xml"/>
+  </xslt>
+ </target>
+
+ <target name="makeTextVersions">
+  <xslt basedir="${ciswab.outputdir}" destdir="${ciswab.outputdir}"
+   style="wab2cis_sentence-text.xsl" classpath="./saxon/saxon9he.jar" extension=".txt">
+   <fileset dir="${ciswab.outputdir}">
+    <patternset id="ciswab.xml-not-orig">
+      <include name="**/*xml"/>
+      <exclude name="**/orig/*.xml"/>
+      <exclude name="**/*tagged.xml"/>
+    </patternset>
+   </fileset>
+   <!-- mapper for unix path-->
+   <mapper type="regexp" from="^(.+?)[/\\](diplo|norm)[/\\]([^/^\\]+)\.xml$"
+    to="\1/\text/\3_TEXT-SENTENCE.txt"/>
+  </xslt>
+  <xslt basedir="${ciswab.outputdir}" destdir="${ciswab.outputdir}" style="wab2cis_siglum-text.xsl"
+   classpath="./saxon/saxon9he.jar" extension=".txt">
+   <fileset dir="${ciswab.outputdir}">
+    <patternset refid="ciswab.xml-not-orig"/>
+   </fileset>
+   <mapper type="regexp" from="^(.+?)[/\\](diplo|norm)[/\\]([^/^\\]+)\.xml$"
+    to="\1/\text/\3_TEXT-SIGLUM.txt"/>
+  </xslt>
+  <xslt basedir="${ciswab.outputdir}" destdir="${ciswab.outputdir}" style="wab2cis_text.xsl"
+   classpath="./saxon/saxon9he.jar" extension=".txt">
+   <fileset dir="${ciswab.outputdir}">
+    <patternset refid="ciswab.xml-not-orig"/>
+   </fileset>
+   <mapper type="regexp" from="^(.+?)[/\\](diplo|norm)[/\\]([^/^\\]+)\.xml$" to="\1/\text/\3_TEXT.txt"/>
+  </xslt>
+ </target>
+</project>

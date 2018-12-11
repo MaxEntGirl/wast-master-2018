@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- ant project to transform open access wab files to cis-versions-->
+<project basedir="." default="dist" name="ANTProject">
+ <property name="ciswab.outputdir" value="./CISWAB"/>
+ <property name="ciswab.oadir" value="OAWAB"/>
+
+ <target name="dist" depends="makeTextVersions">
+  <move todir="${ciswab.outputdir}">
+   <fileset dir="${ciswab.oadir}">
+    <include name="**/*.xml"/>
+   </fileset>
+   <mapper type="regexp" from="^(.+)\.xml$" to="\1/orig/\1.xml"/>
+  </move>    
+ </target>
+
+ <target name="downloadOAWAB">
+  <mkdir dir="${ciswab.oadir}"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-114_OA.xml" dest="${ciswab.oadir}/Ms-114_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-115_OA.xml" dest="${ciswab.oadir}/Ms-115_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-139a_OA.xml" dest="${ciswab.oadir}/Ms-139a_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-140,39v_OA.xml"
+   dest="${ciswab.oadir}/Ms-140,39v_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-141_OA.xml" dest="${ciswab.oadir}/Ms-141_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-148_OA.xml" dest="${ciswab.oadir}/Ms-148_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-149_OA.xml" dest="${ciswab.oadir}/Ms-149_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-150_OA.xml" dest="${ciswab.oadir}/Ms-150_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-152_OA.xml" dest="${ciswab.oadir}/Ms-152_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-153a_OA.xml" dest="${ciswab.oadir}/Ms-153a_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-153b_OA.xml" dest="${ciswab.oadir}/Ms-153b_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-154_OA.xml" dest="${ciswab.oadir}/Ms-154_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-155_OA.xml" dest="${ciswab.oadir}/Ms-155_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ms-156a_OA.xml" dest="${ciswab.oadir}/Ms-156a_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ts-201a1_OA.xml" dest="${ciswab.oadir}/Ts-201a1_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ts-201a2_OA.xml" dest="${ciswab.oadir}/Ts-201a2_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ts-207_OA.xml" dest="${ciswab.oadir}/Ts-207_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ts-212_OA.xml" dest="${ciswab.oadir}/Ts-212_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ts-213_OA.xml" dest="${ciswab.oadir}/Ts-213_OA.xml"/>
+  <get src="http://wab.uib.no/cost-a32_xml/Ts-310_OA.xml" dest="${ciswab.oadir}/Ts-310_OA.xml"/>
+ </target>
+
+ <target name="transformDiplomaticWAB2CIS">
+  <xslt basedir="${ciswab.oadir}" style="wab2cis_diplomatic.xsl" destdir="${ciswab.outputdir}"
+   classpath="./saxon/saxon9he.jar" extension=".xml">
+   <mapper type="regexp" from="^(.+)\.xml$" to="\1/diplo/\1_DIPL.xml"/>
+  </xslt>
+ </target>
+
+
+ <target name="makeTextVersions">
+  <xslt basedir="${ciswab.outputdir}" destdir="${ciswab.outputdir}"
+   style="wab2cis_sentence-text.xsl" classpath="./saxon/saxon9he.jar" extension=".txt">
+   <fileset dir="${ciswab.outputdir}">
+    <patternset id="ciswab.xml-not-orig">
+     <include name="**/*xml"/>
+      <exclude name="**/orig/*.xml"/>
+    </patternset>
+   </fileset>
+   <!-- mapper for unix path-->
+   <mapper type="regexp" from="^(.+?)/(diplo|norm|orig)/([^/]+)\.xml$"
+    to="\1/\text/\3_TEXT-SENTENCE.txt"/>
+  </xslt>
+  <xslt basedir="${ciswab.outputdir}" destdir="${ciswab.outputdir}" style="wab2cis_siglum-text.xsl"
+   classpath="./saxon/saxon9he.jar" extension=".txt">
+   <fileset dir="${ciswab.outputdir}">
+    <patternset refid="ciswab.xml-not-orig"/>
+   </fileset>
+   <mapper type="regexp" from="^(.+?)/(diplo|norm|orig)/([^/]+)\.xml$"
+    to="\1/\text/\3_TEXT-SIGLUM.txt"/>
+  </xslt>
+  <xslt basedir="${ciswab.outputdir}" destdir="${ciswab.outputdir}" style="wab2cis_text.xsl"
+   classpath="./saxon/saxon9he.jar" extension=".txt">
+   <fileset dir="${ciswab.outputdir}">
+    <patternset refid="ciswab.xml-not-orig"/>
+   </fileset>
+   <mapper type="regexp" from="^(.+?)/(diplo|norm|orig)/([^/]+)\.xml$" to="\1/\text/\3_TEXT.txt"/>
+  </xslt>
+ </target>
+</project>
