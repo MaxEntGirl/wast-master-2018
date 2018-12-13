@@ -2,7 +2,7 @@
 
 # Member sind (bitte eintragen, Name, email-adresse)
 * für Aufgabe (1) ... Verena Pongratz
-* xxx
+* Alexander Vordermaier, a.vordermaier@campus.lmu.de
 * xxx
 
 # Abgabetermin: zwischen 25.2. und 1.3.2019
