@@ -23,3 +23,6 @@ Und https://gitlab.cis.uni-muenchen.de/wast/wast-kurs-uebungen/tree/master/xml_t
 ```xml
  <ab  ….. ana="GT_date:19141030"    im _OA File
 <ab n="Ts-211,1[1]" ana="abnr:1">    dazu: <ab n="Ts-211,1[1]" ana="abnr:1  GT_date:19141030 ">```
+
+# Alle 20.000 Seiten 
+* sind hier: `https://gitlab.cis.uni-muenchen.de/wast/witt-data/tree/master/ciswab/wab2cis/opensource_nachlass`
