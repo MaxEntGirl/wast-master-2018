@@ -1,8 +1,8 @@
 # Edition: Briefwechsel E_Brief
 
 # Member sind (bitte eintragen, Name, email-adresse)
-* xxx
-* xxx
+* Anastasiya Kryvosheya, anastasia485@gmail.com
+* Iryna Markovych, markovych@cip.ifi.lmu.de
 
 # Abgabetermin: zwischen 25.2. und 1.3.2019
 * Präsentation als Gruppe (15 Minuten, jeder der Mitglieder 5 Minuten) und 
