@@ -1,7 +1,7 @@
 # NLP – Team – WiTTSimilar N_nlp
 
 # Member sind (bitte eintragen, Name, email-adresse)
-* xxx
+* Mary Ann Tan, tan.ma@campus.lmu.de
 * xxx
 
 # Abgabetermin: zwischen 25.2. und 1.3.2019
