@@ -2,7 +2,7 @@
 
 # Member sind (bitte eintragen, Name, email-adresse)
 * Mary Ann Tan, tan.ma@campus.lmu.de
-* xxx
+* Armela Meleqi, meleqi@gmx.de
 
 # Abgabetermin: zwischen 25.2. und 1.3.2019
 * Präsentation als Gruppe (15 Minuten, jeder der Mitglieder 5 Minuten) und 
