@@ -1,6 +1,7 @@
 # Lexikon L_lex
 
 # Member sind (bitte eintragen, Name, email-adresse)
+* für Aufgabe (1) ... Verena Pongratz
 * xxx
 * xxx
 
@@ -19,3 +20,5 @@
 * Event. Disambiguierung mit Parsing…  Nominalphrasen 
  * Spacy, Python, Dependenz-parsing
 
+# (1) neue Aufgabe 13.12.18: Internationalisierung 
+* neues Frontend Englisch ... und Lemmaliste fürs Lexikon
