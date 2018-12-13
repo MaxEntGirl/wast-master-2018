@@ -3,7 +3,7 @@
 # Member sind (bitte eintragen, Name, email-adresse)
 * für Aufgabe (1) ... Verena Pongratz
 * Alexander Vordermaier, a.vordermaier@campus.lmu.de
-* xxx
+* Di Wu  d.wu@campus.lmu.de
 
 # Abgabetermin: zwischen 25.2. und 1.3.2019
 * Präsentation als Gruppe (15 Minuten, jeder der Mitglieder 5 Minuten) und 
