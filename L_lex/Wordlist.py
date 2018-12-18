@@ -1,26 +1,27 @@
 import string
 
 wordlist = open("wordlist.txt", "w")
-textfile = open("sammel.txt", "r", encoding="utf-8")
+textfile = open("sammel.txt", "r")
 w_list = []
 
 text = textfile.readlines()
 
 for line in text:
     #print(line)
-    tr = str.maketrans("", "", string.punctuation)
-    line = line.translate(tr)
+    #tr = str.maketrans("", "", string.punctuation)
+    line = line.translate(string.maketrans("",""), string.punctuation)
+    #line = line.translate(tr)
     #print(line)
 
     words = line.split()
 
     for word in words:
-        #if word not in w_list:
-        w_list.append(word)
+    	if word not in w_list:
+        	w_list.append(word)
 
 
 print(w_list)
-#w_list.sort()
+w_list.sort()
 print(w_list)
 for word in w_list:
     wordlist.write(word)

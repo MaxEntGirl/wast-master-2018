@@ -5,19 +5,20 @@ import codecs
 sammelfile = open("sammel.txt", "w")
 name = []
 
-for path, drive, name in walk('C:/Users/alexv/Desktop/wast-master-2018/E_Brief/FIBA2CIS/output/text'):
+for path, drive, name in walk('/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text'):
     print(name)
 
 
 for i in name:
     print(i)
-    file = open('C:/Users/alexv/Desktop/wast-master-2018/E_Brief/FIBA2CIS/output/text/' + i, 'r');#errors='ignore'
-    #file = codecs.open('C:/Users/alexv/Desktop/wast-master-2018/E_Brief/FIBA2CIS/output/text/' + i, 'r')
+    #file = open('/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text' + i, 'r', errors='ignore'); 
+    #errors='ignore'
+    file = codecs.open('/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text/' + i, 'r')
     text = file.read()
     text = text.replace("\n", " ")
 
-    sammelfile.write(i)
-    sammelfile.write("\n")
+    #sammelfile.write(i)
+    #sammelfile.write("\n")
 
     result = re.search('Title:(.*)sourceDesc:', text)
     sammelfile.write(result.group(1))
