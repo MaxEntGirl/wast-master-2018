@@ -9,20 +9,27 @@ text = textfile.readlines()
 for line in text:
     #print(line)
     #tr = str.maketrans("", "", string.punctuation)
-    line = line.translate(string.maketrans("",""), string.punctuation)
+    #line = line.translate(string.maketrans("",""), string.punctuation)
+    transl = string.maketrans(string.punctuation, ' '*len(string.punctuation))
+    line = line.translate(transl)
     #line = line.translate(tr)
     #print(line)
 
     words = line.split()
 
     for word in words:
+	#change words, that are all uppercase
+	if(word.isupper()):
+		print(word)
+		word = word.capitalize()
+	
     	if word not in w_list:
         	w_list.append(word)
 
 
-print(w_list)
+
 w_list.sort()
-print(w_list)
+
 for word in w_list:
     wordlist.write(word)
     wordlist.write("\n")
