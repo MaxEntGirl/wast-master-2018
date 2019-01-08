@@ -19,7 +19,7 @@ with open("nice_word_list.txt", "r",encoding='UTF-8') as l:
         if w not in existing_words:
            i += 1
            new_words.write(w)
-'''something fail in this loop:it writes almost all the words from nice_word list in'''
+'something fail in this loop:it writes almost all the words from nice_word list in'
 
 print(i,'words are new to the lexicon.')
 
