@@ -1,5 +1,9 @@
+from difflib import SequenceMatcher
+
 file = open("nice_word_list.txt", "r")
 outfile = open("simil.txt", "w")
+
+#print(SequenceMatcher(None, 'Abend', 'Abendessen').ratio())
 
 #Variables
 text = file.readlines()
@@ -34,9 +38,14 @@ for i in text:
 
         simpoints += (len(big) - len(small))
 
-        print(simpoints)
+        #print(simpoints)
 
-        if simpoints > 4:
+        # Wert bestimmt die Toleranz
+        #if simpoints >= 5:
+            #list.append(new_word)
+
+        percent = SequenceMatcher(None, last_word, new_word).ratio()
+        if percent < 0.67:
             list.append(new_word)
 
         simpoints = 0
