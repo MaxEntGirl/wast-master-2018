@@ -26,4 +26,8 @@
 
 # Guide
 1. Wortliste\Sammeldatei.py
- *      Das Script liest die Titel und Texte aus allen Dateien aus einem angegebenen Directory und speichert die gesammelten Resultate in die Datei Wortliste\sammel.txt
+*       Das Script liest die Titel und Texte aus allen Dateien aus einem angegebenen Directory und speichert die gesammelten Resultate in die Datei Wortliste\sammel.txt
+2. Wortliste\Wordlist.py
+*       Das Script liest die gesammelten Texte von sammel.txt und extrahiert eine Wortliste, die in wordlist.txt gespeichert wird. 
+*       In der Datei deleted_words.txt wurden manuell Wörter gespeichert, die nicht in der Wortliste gespeichert sein sollten (reine Zahlen).
+*       In der Datei nice_word_list.txt wird die Wortliste ohne die gelöschten Wörter gespeichert.
