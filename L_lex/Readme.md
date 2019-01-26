@@ -22,3 +22,8 @@
 
 # (1) neue Aufgabe 13.12.18: Internationalisierung 
 * neues Frontend Englisch ... und Lemmaliste fürs Lexikon
+
+
+# Guide
+1. Wortliste\Sammeldatei.py
+ *      Das Script liest die Titel und Texte aus allen Dateien aus einem angegebenen Directory und speichert die gesammelten Resultate in die Datei Wortliste\sammel.txt
