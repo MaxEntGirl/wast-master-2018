@@ -39,3 +39,6 @@
 *       Das Resultat wird in finale_Wortliste.txt gespeichert
 *       Die Datei brief_de_dela.txt enthählt eine deutsche Wortliste
 *       Die Datei brief_en_dela.txt enthählt eine englische Wortliste
+5.Einteilung\einteilung.py
+*       Dieses Script liest eine Wortliste aus Komplette_Wortliste.txt und das aktuelle Lexikon ein. 
+*       Die Wortliste wird mit dem Lexikon verglichen. Wenn ein Wort bereits im Lexikon steht (Die Groß und Kleinschreibung wird nicht beachtet!), wird das Wort in die Datei unnötige_wörter.txt geschrieben. Der Rest in Restliste.txt
