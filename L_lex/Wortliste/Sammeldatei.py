@@ -1,6 +1,8 @@
-# Dieses Skript durchläuft ein bestimmtes Verzeichnis und extrahiert alle Titel und Texte aus allen Dateien 
-# innerhalb des Verzeichnisses.
+# Dieses Skript durchläuft ein Verzeichnis und extrahiert alle Titel und Texte aus allen Dateien 
+# innerhalb des Verzeichnisses, den Ort des Verzeichnisses frägt das Verzeichnis ab.
+# Der Ort sollte in dieser Art angegeben werden: Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text
 # Die Ergebnisse werden in eine einzige Datei geschrieben, um alle Informationen an einem Ort zu sammeln
+
 
 
 from os import walk
@@ -9,17 +11,20 @@ import codecs
 
 sammelfile = open("sammel.txt", "w")
 name = []
+dir = input('Enter Location of letters: ')
 
 # Um das Verzeichnis zu durchsuchen, übergibt man der Walk-Funktion einfach den Ort des Verzeichnisses, das man durchsuchen möchte
-for path, drive, name in walk('/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text'):
-    print(name)
+#for path, drive, name in walk('/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text'):
+    #print(name)
+for path, drive, name in walk(dir):
+    print("Searching Directory...")
 
 # Extraktion der Tietel und Texte
 # Das Resultat wird in die Datei Wortliste\sammel.txt geschrieben
 for i in name:
     print(i)
 	#Übergebe den Ort des Verzeichnisses(den selben wie vorher) + der aktuelle Dateiname i, um die Dateien zu öffnen
-    file = codecs.open('/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text/' + i, 'r')
+    file = codecs.open(dir + "/" + i, 'r')
     text = file.read()
     text = text.replace("\n", " ")
 
