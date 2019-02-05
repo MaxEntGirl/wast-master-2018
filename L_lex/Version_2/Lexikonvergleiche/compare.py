@@ -7,6 +7,8 @@
 import codecs
 
 new_words = codecs.open("new_words.txt", 'w',encoding='UTF-8')
+prob_words = codecs.open("problem_words.txt", 'w',encoding='UTF-8')
+unness_words = codecs.open("unnessecary_words.txt", 'w',encoding='UTF-8')
 existing_words=[] #Wortliste des Lexikons
 de_words = []
 en_words = []
@@ -88,50 +90,62 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
         #print(i)
         new = i.lower()
         en_words_new.append(new)
+
+    existing_words_new = []
+    for i in existing_words:
+        new = i.lower()
+        existing_words_new.append(new)
     
     
-    
+    print(str(len(new_candidates)) + " candidates!")
     for w in new_candidates:
-        print(w[0] + " new_candidate")
+        if(w[0] == "Danach"):
+            print("danach" in existing_words_new)
+
+
         if(w[1] == "de"):
-            if(w[0] not in de_words_new):
-                final_candidates.append(w)
+            if(w[0].lower() not in de_words_new and w[0].lower() not in existing_words_new):
+                if (w[0] not in de_words_new and w[0] not in existing_words_new):
+                    final_candidates.append(w)
+                else:
+                    unnessecary_words.append(w)
             else:
                 unnessecary_words.append(w)
-            #for de in de_words:
-                #if(w[0].lower() == de.lower()):
-                   # unnessecary_words.append(w)
-                #else:
-                   # final_candidates.append(w)
-        if(w[1] == "en"):
-            if(w[0] not in en_words_new):
-                final_candidates.append(w)
+
+
+        elif(w[1] == "en"):
+            if w[0].lower() not in en_words_new and w[0].lower() not in existing_words_new:
+                if w[0] not in en_words and w[0] not in existing_words:
+                    final_candidates.append(w)
+                else:
+                    unnessecary_words.append(w)
             else:
                 unnessecary_words.append(w)
-            #for en in en_words:
-                #if(w[0].lower() == en.lower()):
-                 #   unnessecary_words.append(w)
-               # else:
-                  #  final_candidates.append(w)
-                #
-        
-        #w = w.lower()
-        
-            #i += 1
-            #new_words.write(w + "\n") #Neue Wörter werden in die Datei new_words.txt geschrieben
-            
-        #stop = raw_input("Weiter")
+
+
 
 #print(i,'words are new to the lexicon.')
 for entry in final_candidates:
     new_words.write(entry[0] + " " + entry[1])
+    new_words.write("\n")
+for entry in problem_words:
+    prob_words.write(entry[0] + " " + entry[1])
+    prob_words.write("\n")
+for entry in unnessecary_words:
+    unness_words.write(entry[0] + " " + entry[1])
+    unness_words.write("\n")
 
 print(str(len(final_candidates)) + " new words!")
 print(str(len(problem_words)) + " problem_words!")
 print(str(len(unnessecary_words)) + " unnessecary_words words!")
+
+#for i in unnessecary_words:
+    #print(i)
 
 new_words.close()
 words_de.close()
 words_en.close()
 f.close()
 l.close()
+prob_words.close()
+unness_words.close()
