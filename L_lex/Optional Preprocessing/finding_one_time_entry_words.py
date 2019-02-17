@@ -1,10 +1,11 @@
 from nltk.stem import SnowballStemmer
 stemmer=SnowballStemmer('german')
 
-new_words = open("C:/Users/Ida/PycharmProjects/wast-master-2018/L_lex/Vergleich mit Lexikon/new_words.txt", 'r', encoding='UTF-8')
+path=input('Please give the filepath which you want to use:')
+new_words = open(path, 'r', encoding='UTF-8')
 lexikonfile = open("witt_WAB_dela_XIX.txt", "r", encoding='UTF-8')
-one_time_entry= open("one_time_entry", 'w',encoding='UTF-8')
-brand_new_entry= open("brand_new_entry", 'w',encoding='UTF-8')
+one_time_entry= open("one_time_entry.txt", 'w',encoding='UTF-8')
+brand_new_entry= open("brand_new_entry.txt", 'w',encoding='UTF-8')
 
 seq = ''
 lexicons = []
@@ -22,6 +23,8 @@ words = []
 
 for w in new_words.readlines():
     w = w.replace("\n", "")
+    if len(w.split(' ')) > 1:
+        w = w.split(' ')[0]
     words.append(w)
 
 def stemming(wordlist):
@@ -40,13 +43,15 @@ lemma_to_be=stemming(words)
 entry={}
 existing_entry={}
 for w,l in lemma_to_be.items():
-    lm = w + ':' + l+'\n'
+#    lm = w + ':' + l+'\n'
     if l in existing_lemmas.values():
         existing_entry[w]=l
-        one_time_entry.write(lm)
+        one_time_entry.write(w)
+        one_time_entry.write('\n')
     else:
         entry[w]=l
-        brand_new_entry.write(lm)
+        brand_new_entry.write(w)
+        brand_new_entry.write('\n')
 
 print('There are',len(words), 'new words,', len(existing_entry.keys()), 'words need one time entry,', len(entry.keys()),'words are totally new.')
 
