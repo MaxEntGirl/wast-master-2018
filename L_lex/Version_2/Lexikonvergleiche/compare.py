@@ -8,7 +8,8 @@
 
 import codecs
 
-new_words = codecs.open("new_words.txt", 'w',encoding='UTF-8')
+new_words_de = codecs.open("new_words_de.txt", 'w',encoding='UTF-8')
+new_words_en = codecs.open("new_words_en.txt", 'w',encoding='UTF-8')
 prob_words = codecs.open("problem_words.txt", 'w',encoding='UTF-8')
 unness_words = codecs.open("unnessecary_words.txt", 'w',encoding='UTF-8')
 existing_words=[] # Wortliste des Witt-Lexikons
@@ -16,7 +17,8 @@ de_words = []	# Wortliste aus dem deutschen Lexikon
 en_words = []   # Wortliste aus dem englischen Lexikon
 seq=''
 new_candidates = [] # zwischenstand der Kandidaten
-final_candidates = [] # Finaler Stand der Kandidaten
+final_candidates_de = [] # Finaler Stand der deutschen Kandidaten
+final_candidates_en = [] # Finaler Stand der englischen Kandidaten
 problem_words = []	# Wörter die problematisch sind
 unnessecary_words = [] # Wörter die auf andere Art schon im Lexikon sind
 
@@ -92,7 +94,7 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
         if(w[1] == "de"):
             if(w[0].lower() not in de_words_new and w[0].lower() not in existing_words_new):
                 #if (w[0] not in de_words_new and w[0] not in existing_words_new):
-                final_candidates.append(w)
+                final_candidates_de.append(w)
                 #else:
                  #    unnessecary_words.append(w)
             else:
@@ -103,16 +105,19 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
         elif(w[1] == "en"):
             if w[0].lower() not in en_words_new and w[0].lower() not in existing_words_new:
                 #if w[0] not in en_words and w[0] not in existing_words:
-                final_candidates.append(w)
+                final_candidates_en.append(w)
                 #else:
                 #    unnessecary_words.append(w)
             else:
                 unnessecary_words.append(w)
 
 # Erstellen des Outputs
-for entry in final_candidates:
-    new_words.write(entry[0] + " " + entry[1])
-    new_words.write("\n")
+for entry in final_candidates_de:
+    new_words_de.write(entry[0])
+    new_words_de.write("\n")
+for entry in final_candidates_en:
+    new_words_en.write(entry[0])
+    new_words_en.write("\n")
 for entry in problem_words:
     prob_words.write(entry[0] + " " + entry[1])
     prob_words.write("\n")
@@ -120,11 +125,13 @@ for entry in unnessecary_words:
     unness_words.write(entry[0] + " " + entry[1])
     unness_words.write("\n")
 
-print(str(len(final_candidates)) + " new words!")
+print(str(len(final_candidates_de)) + " new german words!")
+print(str(len(final_candidates_en)) + " new english words!")
 print(str(len(problem_words)) + " problem_words!")
 print(str(len(unnessecary_words)) + " unnessecary_words words!")
 
-new_words.close()
+new_words_de.close()
+new_words_en.close()
 words_de.close()
 words_en.close()
 f.close()
