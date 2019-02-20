@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#This Script cleanes the CIS-Lexica from all double-entries, so that only the smaller entry remains
+
 import codecs
 
 #Variablen
