@@ -53,3 +53,7 @@
 *       Wörter, die bereits im Lexikon enthalten sind, sich aber nur in der Groß-/Kleinschreibung unterscheiden, werden in die Datei unnessesary_words.txt gespeichert.
 3. Manuelle Sortierung
 *       Man sollte die Datei new_words.txt manuell durchsehen und Wörter, bei denen Unsicherheit besteht, umsortieren.
+4. NeuesLexikon\cleaner.py
+*       Dieses Script legt die beiden CIS-Lexika zusammen und löscht jeden doppelten Eintrag, wobei immer der kleinere behalten wird. Das reusltat wird in die Datei cleaned_words.txt gespeichert.
+5. NeuesLexikon\neu_sortieren.py
+*       Dieses Script löscht alle unnötigen metainformationen zu den Einträgen und bildet so die Basis für das neue Brieflexikon. Das Resulat wird in resorted_cleaned_words.txt gespeichert.
