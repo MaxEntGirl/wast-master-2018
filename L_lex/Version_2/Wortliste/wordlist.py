@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 # Dieses Skript durchsucht ein Verzeichnis und extrahiert alle Titel und Texte aus allen Dateien innerhalb des Verzeichnisses,
-# den Ort des Verzeichnisses fraegt das Verzeichnis ab.
+# den Ort des Verzeichnisses fraegt das Program ab.
 # Der Ort sollte in dieser Art angegeben werden: Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text
-# Für jeden Brief wird die Sprache erkannt
-# Aus den eingelesenen Briefen wird dann die Wortliste erstellt
+# Für jeden Brief wird außerdem die Sprache erkannt
+# Aus den eingelesenen Briefen wird dann eine Wortliste erstellt
 # Jedes Wort hat ein Sprachtag um die Erstellung der Lexikoneinträge zu Vereinfachung
 # Das Resultat wird in die Datei sammel.txt geschrieben
 
@@ -31,7 +31,6 @@ languages = {}
 dir = raw_input('Enter Location of letters: ')
 
 # Um das Verzeichnis zu durchsuchen, uebergibt man der Walk-Funktion einfach den Ort des Verzeichnisses, das man durchsuchen moechte
-# for path, drive, name in walk('/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text'):
 for path, drive, name in walk(dir):
     print("Searching Directory...")
 

@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Dieses Script vergleicht die erstellte Wortliste mit dem aktuellen Lexikon
-# Alle Wörter die nicht in dem Lexikon zu finden waren werden in der Datei new_words.txt gespeichert
+# Dieses Script vergleicht die erstellte Wortliste mit dem aktuellen Witt-Lexikon und Enstrechenden Wortlisten des CIS-Lexikons
+# Alle Wörter die nicht in den Lexika zu finden waren werden in den Dateien new_words_de.txt und new_words_en.txt gespeichert
 # Problematische Wörter, wie Wörter die nicht englisch oder deutsch sind, werden erst einmal in problem_words.txt gespeichert
-# Wörter die im Lexikon sind, aber die Groß-/Kleinschreibung unterschiedlich ist, werden in unnessecary_words.txt gespeichert
+# Wörter die in den Lexica sind, aber die Groß-/Kleinschreibung unterschiedlich ist, werden in unnessecary_words.txt gespeichert
 
 import codecs
 
@@ -13,8 +13,8 @@ new_words_en = codecs.open("new_words_en.txt", 'w',encoding='UTF-8')
 prob_words = codecs.open("problem_words.txt", 'w',encoding='UTF-8')
 unness_words = codecs.open("unnessecary_words.txt", 'w',encoding='UTF-8')
 existing_words=[] # Wortliste des Witt-Lexikons
-de_words = []	# Wortliste aus dem deutschen Lexikon
-en_words = []   # Wortliste aus dem englischen Lexikon
+de_words = []	# Wortliste aus dem deutschen Cis-Lexikon
+en_words = []   # Wortliste aus dem englischen Cis-Lexikon
 seq=''
 new_candidates = [] # zwischenstand der Kandidaten
 final_candidates_de = [] # Finaler Stand der deutschen Kandidaten
@@ -34,7 +34,7 @@ with codecs.open("witt_WAB_dela_XIX.txt", "r",encoding='UTF-8')as f:
             w=seq.join(w)
         existing_words.append(w)
 
-#öffnet brief_de_dela.txt (deutsches Lexikon)
+#öffnet brief_de_dela.txt (deutsches Cis-Lexikon)
 with codecs.open("brief_de_dela.txt", "r",encoding='UTF-8')as words_de:
     dew = words_de.readlines()
     for line in dew:
@@ -45,7 +45,7 @@ with codecs.open("brief_de_dela.txt", "r",encoding='UTF-8')as words_de:
             w=seq.join(w)
         de_words.append(w)
         
-#öffnet brief_en_dela.txt(englisches Lexikon)
+#öffnet brief_en_dela.txt(englisches Cis-Lexikon)
 with codecs.open("brief_en_dela.txt", "r",encoding='UTF-8')as words_en:
     dew = words_en.readlines()
     for line in dew:
@@ -64,10 +64,10 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
         w = w.replace("\n", "")
         tupel = w.split()
         
-        #Alle Sprachen außer de en aussortieren
+        #Alle Sprachen außer 'de' und 'en' aussortieren
         if(tupel[1] != "de" and tupel[1] != "en"):
             problem_words.append(tupel)
-        #Vergleiche mit Lexika
+        #Vergleiche mit allen Lexika
         else:
             if(tupel[0] not in existing_words):
                 if(tupel[1] == "de" and tupel[0] not in de_words):
@@ -101,7 +101,6 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
                 unnessecary_words.append(w)
                 print(w[0])
 
-
         elif(w[1] == "en"):
             if w[0].lower() not in en_words_new and w[0].lower() not in existing_words_new:
                 #if w[0] not in en_words and w[0] not in existing_words:
@@ -111,6 +110,7 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
             else:
                 unnessecary_words.append(w)
 
+				
 # Erstellen des Outputs
 for entry in final_candidates_de:
     new_words_de.write(entry[0])
