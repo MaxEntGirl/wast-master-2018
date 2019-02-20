@@ -48,8 +48,8 @@
 *       Das Script durchsucht ein Verzeichniss, das vom Nutzer abgefragt wird. Alle darin enthaltenen Briefe werden eingelesen und es wird deren Sprache bestimmt.
 *       Aus den Briefen wird dann eine Wortliste erstellt, bei dem jedes Wort ein zugehöriges Sprachtag besitzt. Das Resultat wird in die Datei sammel.txt geschrieben.
 2. Lexikonvergleiche\compare.py
-*       Das Script liest die erstellte Wortliste ein und vergleicht diese mit dem Lexikon. Wörter, die nicht im Lexikon zu finden sind werden in die Datei new_words.txt gespeichert.
+*       Das Script liest die erstellte Wortliste aus sammel.txt ein und vergleicht diese mit den Lexika. Wörter, die nicht in den Lexika zu finden sind werden in die Dateien new_words_de.txt und new_words_en.txt gespeichert.
 *       Wörter, die nicht englisch oder deutsch sind, werden in die Datei problem_words.txt gespeichert.
-*       Wörter, die bereits im Lexikon enthalten sind, sich aber nur in der Groß-/Kleinschreibung unterscheiden werden in die Datei unnessesary_words.txt gespeichert.
+*       Wörter, die bereits im Lexikon enthalten sind, sich aber nur in der Groß-/Kleinschreibung unterscheiden, werden in die Datei unnessesary_words.txt gespeichert.
 3. Manuelle Sortierung
 *       Man sollte die Datei new_words.txt manuell durchsehen und Wörter, bei denen Unsicherheit besteht, umsortieren.
