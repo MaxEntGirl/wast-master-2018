@@ -28,7 +28,7 @@ name = []
 current_letter = ""
 wordlist = {}
 languages = {}
-dir = raw_input('Enter Location of letters: ')
+dir = input('Enter Location of letters: ')
 
 # Um das Verzeichnis zu durchsuchen, uebergibt man der Walk-Funktion einfach den Ort des Verzeichnisses, das man durchsuchen moechte
 for path, drive, name in walk(dir):
@@ -53,7 +53,10 @@ for i in name:
     # Spracherkennung
     lang = detect(current_letter)
     for i in string.punctuation:
-        current_letter = current_letter.replace(i, " ")
+		if i == "-":
+			current_letter = current_letter.replace(i, "")
+		else:
+			current_letter = current_letter.replace(i, " ")
     words = current_letter.split()
     
 	# Erweiterung der Wortliste 
