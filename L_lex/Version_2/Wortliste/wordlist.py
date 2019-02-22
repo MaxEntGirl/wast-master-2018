@@ -8,6 +8,7 @@
 # Aus den eingelesenen Briefen wird dann eine Wortliste erstellt
 # Jedes Wort hat ein Sprachtag um die Erstellung der Lexikoneinträge zu Vereinfachung
 # Das Resultat wird in die Datei sammel.txt geschrieben
+#/home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text/  
 
 #There are 448 words in the lanuage fr (french)
 #There are 7134 words in the lanuage en (english)
@@ -28,7 +29,7 @@ name = []
 current_letter = ""
 wordlist = {}
 languages = {}
-dir = input('Enter Location of letters: ')
+dir = raw_input('Enter Location of letters: ')
 
 # Um das Verzeichnis zu durchsuchen, uebergibt man der Walk-Funktion einfach den Ort des Verzeichnisses, das man durchsuchen moechte
 for path, drive, name in walk(dir):

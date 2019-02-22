@@ -105,7 +105,6 @@ Between en
 Bevor de
 Bible en
 Bin de
-Bipolarity en
 Birthday en
 Bis de
 Bisher de
@@ -167,6 +166,7 @@ Connections en
 Construction en
 Consul en
 Consulate en
+Coordinations en
 Copula de
 Corner en
 Corps en
@@ -174,7 +174,6 @@ Cottage en
 Could en
 Council en
 County en
-Cum en
 D de
 Da de
 Dabei de
@@ -199,7 +198,6 @@ Das de
 Daselbst de
 Dass de
 Dasselbe de
-Data de
 Dauerhaft de
 Davon de
 Davor de
@@ -229,7 +227,6 @@ Deswegen de
 Detective en
 Determine en
 Devil en
-Dezimal de
 Dich de
 Dick en
 Did en
@@ -261,7 +258,6 @@ Durchreise de
 During en
 E de
 East en
-Easy en
 Eben de
 Ebenso de
 Edition en
@@ -325,7 +321,6 @@ Fellow en
 Fellowship en
 Fiat de
 Figs en
-Fill en
 Finally en
 Fine de
 Firm en
@@ -537,7 +532,6 @@ Laß de
 Learning en
 Leave en
 Lectureship en
-Lend en
 Lenke de
 Lent en
 Let en
@@ -556,7 +550,6 @@ Locke en
 Lodge en
 Logic en
 Logical en
-Logisch en
 Look en
 Looking en
 Lots en
@@ -602,7 +595,7 @@ Merkwürdigerweise de
 Method en
 Mich de
 Might en
-Miles de
+Miles en
 Mind en
 Mining de
 Missing de
@@ -616,7 +609,6 @@ Ms en
 Much en
 Mußt de
 My en
-Mährisch de
 Möchte de
 Möchtest de
 Möge de
@@ -638,7 +630,7 @@ Needless en
 Nein de
 Neither en
 Nephew en
-Neu de
+NeuWaldegg de
 Neulich de
 Never en
 Nevertheless en
@@ -708,7 +700,6 @@ Ph en
 Philos en
 Philosophic en
 Philosophical en
-Philosophische en
 Philosophy en
 Phone en
 Physical en
@@ -821,6 +812,7 @@ Seltsamerweise de
 Sen en
 Send en
 Sendet de
+Sense en
 Several en
 Shall en
 She en
@@ -1134,7 +1126,6 @@ heimkehren de
 hutt en
 lb de
 limes de
-logico en
 logik en
 ludwig de
 mals de
