@@ -6,7 +6,16 @@
 # Words that neither german nor english are beeing saved in problem_words.txt
 # Words that are inside the Lexica, but their spelling in Upper/Lowercase differs, will be saved in unnessecary_words.txt
 
+
+#2664 new german words!
+#1995 new english words!
+#1384 problem_words!
+#1150 unnessecary_words words!
+
+
 import codecs
+import string
+import re
 
 new_words_de = codecs.open("new_words_de.txt", 'w',encoding='UTF-8')
 new_words_en = codecs.open("new_words_en.txt", 'w',encoding='UTF-8')
@@ -85,15 +94,30 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
     for w in new_candidates:
         if(w[1] == "de"):
             if(w[0].lower() not in de_words_new and w[0].lower() not in existing_words_new):
+                
+                word = w[0]
+                word = word.strip(string.punctuation)
+                w[0] = word
                 final_candidates_de.append(w)
             else:
+                
+                word = w[0]
+                word = word.strip(string.punctuation)
+                w[0] = word
+                
                 unnessecary_words.append(w)
-                print(w[0])
+                #print(w[0])
 
         elif(w[1] == "en"):
             if w[0].lower() not in en_words_new and w[0].lower() not in existing_words_new:
+                word = w[0]
+                word = word.strip(string.punctuation)
+                w[0] = word
                 final_candidates_en.append(w)
             else:
+                word = w[0]
+                word = word.strip(string.punctuation)
+                w[0] = word
                 unnessecary_words.append(w)
 
 				

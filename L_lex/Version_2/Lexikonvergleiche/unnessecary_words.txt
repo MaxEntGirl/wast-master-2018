@@ -74,7 +74,7 @@ Before en
 Befried de
 Behalt de
 Behave en
-Beide de
+Beide en
 Beiden de
 Beider de
 Beides de
@@ -99,7 +99,6 @@ Best en
 Beste de
 Besteht de
 Besten de
-Besucht de
 Better en
 Between en
 Bevor de
@@ -118,7 +117,6 @@ Blue en
 Board en
 Boat en
 Bodily en
-Bong de
 Both en
 Bottom en
 Boxing en
@@ -134,6 +132,7 @@ But en
 By en
 Bye en
 C de
+C-dur de
 Cabinet en
 Can en
 Censor en
@@ -157,7 +156,6 @@ Coming en
 Company en
 Compare en
 Complain en
-Complex en
 Compound en
 Con en
 Congratulations en
@@ -166,7 +164,6 @@ Connections en
 Construction en
 Consul en
 Consulate en
-Coordinations en
 Copula de
 Corner en
 Corps en
@@ -224,10 +221,10 @@ Deren de
 Descriptions de
 Desto de
 Deswegen de
-Detective en
 Determine en
 Devil en
 Dich de
+Dich's de
 Dick en
 Did en
 Die de
@@ -238,6 +235,7 @@ Dieses de
 Diesmal de
 Dining en
 Dir de
+Dir's de
 Direkt de
 Do en
 Doch de
@@ -253,6 +251,7 @@ Dreams en
 Dressing en
 Drittens de
 Du de
+Du's de
 Durch de
 Durchreise de
 During en
@@ -310,7 +309,6 @@ Exhibition en
 Existence en
 Explanation en
 F de
-Fact en
 Faculty en
 Far en
 Fast de
@@ -325,7 +323,6 @@ Finally en
 Fine de
 Firm en
 First en
-Flamm de
 Follows de
 For en
 Forgive en
@@ -340,9 +337,7 @@ Friend en
 Friends de
 From en
 Fröhliche en
-Function en
 Further en
-Führt de
 Füllt de
 Für de
 G de
@@ -417,7 +412,6 @@ Hier de
 Hierbei de
 Hiermit de
 High en
-Hin de
 His en
 Ho de
 Hoffentlich de
@@ -463,7 +457,6 @@ Infinity en
 Innen de
 Insbesondere de
 Instead en
-Instrumental de
 Int de
 International de
 Introduction en
@@ -529,7 +522,6 @@ Latin en
 Law de
 Laziness en
 Laß de
-Learning en
 Leave en
 Lectureship en
 Lenke de
@@ -550,6 +542,7 @@ Locke en
 Lodge en
 Logic en
 Logical en
+Logico-philosophicus en
 Look en
 Looking en
 Lots en
@@ -630,7 +623,6 @@ Needless en
 Nein de
 Neither en
 Nephew en
-NeuWaldegg de
 Neulich de
 Never en
 Nevertheless en
@@ -649,7 +641,6 @@ North en
 Notes en
 Nothing en
 Now en
-Number en
 Nun de
 Nur de
 Näh de
@@ -704,7 +695,6 @@ Philosophy en
 Phone en
 Physical en
 Physics en
-Pilgrim en
 Pink en
 Pity en
 Place en
@@ -769,11 +759,9 @@ Research en
 Return de
 Review en
 Right en
-Rights en
 Road en
 Rooms en
 Roughly en
-Ruhig de
 Rush en
 S en
 Sabbatical en
@@ -793,7 +781,6 @@ Schuldlos de
 Schwer de
 Science en
 Scientific en
-Season en
 Secondly en
 Secretary en
 Sed de
@@ -812,15 +799,15 @@ Seltsamerweise de
 Sen en
 Send en
 Sendet de
-Sense en
 Several en
 Shall en
 She en
-Short en
 Shortly en
 Should en
 Sich de
+Sich's de
 Sicheres de
+Sie's de
 Sieh de
 Siehe de
 Siehst de
@@ -850,7 +837,6 @@ Something en
 Sometimes en
 Son en
 Sondiere de
-Sonn de
 Sons en
 Sonst de
 Soon en
@@ -866,12 +852,9 @@ Ss de
 State en
 Steady de
 Steiner de
-Stell de
 Still en
 Stimmt de
-Storey en
 Storeys en
-Story en
 Street de
 Students en
 Studies en
@@ -1031,10 +1014,12 @@ Whiteheads en
 Why en
 Widerruf de
 Wie de
+Wie's de
 Wieder de
 Wiener de
 Wieso de
 Wilde en
+Will's de
 Winde en
 Wir de
 Wird de
@@ -1111,12 +1096,12 @@ ballon de
 beginns en
 behufs de
 bisschen de
+bleibt's de
 br de
 ch de
 deo de
 donnerstag de
 engineering de
-essai de
 ficker de
 gloria de
 grammophon en
@@ -1126,8 +1111,10 @@ heimkehren de
 hutt en
 lb de
 limes de
+logico-philosophicus en
 logik en
 ludwig de
+macht's de
 mals de
 mangels de
 message de

@@ -10,12 +10,13 @@
 # The result will be written in the file sammel.txt
  
 
-#There are 447 words in the lanuage fr
-#There are 7200 words in the lanuage en
-#There are 281 words in the lanuage no
-#There are 12164 words in the lanuage de
-#There are 613 words in the lanuage da
+#There are 448 words in the lanuage fr
+#There are 7479 words in the lanuage en
+#There are 359 words in the lanuage no
+#There are 12290 words in the lanuage de
+#There are 536 words in the lanuage da
 #There are 41 words in the lanuage pl
+
 
 
 from os import walk
@@ -48,10 +49,12 @@ for i in name:
     
     lang = detect(current_letter)
     for i in string.punctuation:
-		if i == "-":
-			current_letter = current_letter.replace(i, "")
-		else:
-			current_letter = current_letter.replace(i, " ")
+        if i == "-":
+            print(" ")
+        elif i == "'":
+            print(" ")
+        else:
+            current_letter = current_letter.replace(i, " ")
     words = current_letter.split()
     
     for word in words:
