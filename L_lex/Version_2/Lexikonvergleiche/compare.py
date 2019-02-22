@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Dieses Script vergleicht die erstellte Wortliste mit dem aktuellen Witt-Lexikon und Enstrechenden Wortlisten des CIS-Lexikons
-# Alle Wörter die nicht in den Lexika zu finden waren werden in den Dateien new_words_de.txt und new_words_en.txt gespeichert
-# Problematische Wörter, wie Wörter die nicht englisch oder deutsch sind, werden erst einmal in problem_words.txt gespeichert
-# Wörter die in den Lexica sind, aber die Groß-/Kleinschreibung unterschiedlich ist, werden in unnessecary_words.txt gespeichert
+# This script compares the wordlist from sammel.txt with the current Witt-Lex and the extracts of the CIS-Lex provided by Dr. Hadersbeck
+# All words that were found in no of the Lexica, are saved to new_words_de.txt and new_words_en.txt
+# Words that neither german nor english are beeing saved in problem_words.txt
+# Words that are inside the Lexica, but their spelling in Upper/Lowercase differs, will be saved in unnessecary_words.txt
 
 import codecs
 
@@ -12,18 +12,17 @@ new_words_de = codecs.open("new_words_de.txt", 'w',encoding='UTF-8')
 new_words_en = codecs.open("new_words_en.txt", 'w',encoding='UTF-8')
 prob_words = codecs.open("problem_words.txt", 'w',encoding='UTF-8')
 unness_words = codecs.open("unnessecary_words.txt", 'w',encoding='UTF-8')
-existing_words=[] # Wortliste des Witt-Lexikons
-de_words = []	# Wortliste aus dem deutschen Cis-Lexikon
-en_words = []   # Wortliste aus dem englischen Cis-Lexikon
+existing_words=[] # wordlist of Witt-Lex
+de_words = []	# wordlist of the german Cis-Lex
+en_words = []   # wordlist of the english Cis-Lex
 seq=''
-new_candidates = [] # zwischenstand der Kandidaten
-final_candidates_de = [] # Finaler Stand der deutschen Kandidaten
-final_candidates_en = [] # Finaler Stand der englischen Kandidaten
-problem_words = []	# Wörter die problematisch sind
-unnessecary_words = [] # Wörter die auf andere Art schon im Lexikon sind
+new_candidates = [] 
+final_candidates_de = [] 
+final_candidates_en = [] 
+problem_words = []	
+unnessecary_words = [] 
 
 
-#öffnet das aktuelle Lexikon
 with codecs.open("witt_WAB_dela_XIX.txt", "r",encoding='UTF-8')as f:
     lexikon=f.readlines()
     for line in lexikon:
@@ -34,7 +33,6 @@ with codecs.open("witt_WAB_dela_XIX.txt", "r",encoding='UTF-8')as f:
             w=seq.join(w)
         existing_words.append(w)
 
-#öffnet brief_de_dela.txt (deutsches Cis-Lexikon)
 with codecs.open("brief_de_dela.txt", "r",encoding='UTF-8')as words_de:
     dew = words_de.readlines()
     for line in dew:
@@ -45,7 +43,6 @@ with codecs.open("brief_de_dela.txt", "r",encoding='UTF-8')as words_de:
             w=seq.join(w)
         de_words.append(w)
         
-#öffnet brief_en_dela.txt(englisches Cis-Lexikon)
 with codecs.open("brief_en_dela.txt", "r",encoding='UTF-8')as words_en:
     dew = words_en.readlines()
     for line in dew:
@@ -56,7 +53,6 @@ with codecs.open("brief_en_dela.txt", "r",encoding='UTF-8')as words_en:
             w=seq.join(w)
         en_words.append(w)
 
-#öffne die erstellte Wortliste mit potenziell neuen Wörtern
 with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
     words=l.readlines()
     i = 0
@@ -64,10 +60,8 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
         w = w.replace("\n", "")
         tupel = w.split()
         
-        #Alle Sprachen außer 'de' und 'en' aussortieren
         if(tupel[1] != "de" and tupel[1] != "en"):
             problem_words.append(tupel)
-        #Vergleiche mit allen Lexika
         else:
             if(tupel[0] not in existing_words):
                 if(tupel[1] == "de" and tupel[0] not in de_words):
@@ -75,7 +69,6 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
                 if(tupel[1] == "en" and tupel[0] not in en_words):
                     new_candidates.append(tupel)
     
-    # Kopien der Lexika für Kontrolle auf Groß-/Kleinschreibung
     de_words_new = []
     for i in de_words:
         new = i.lower()
@@ -89,24 +82,17 @@ with codecs.open("sammel.txt", "r",encoding='UTF-8') as l:
         new = i.lower()
         existing_words_new.append(new)
     
-	# Kontrolle 
     for w in new_candidates:
         if(w[1] == "de"):
             if(w[0].lower() not in de_words_new and w[0].lower() not in existing_words_new):
-                #if (w[0] not in de_words_new and w[0] not in existing_words_new):
                 final_candidates_de.append(w)
-                #else:
-                 #    unnessecary_words.append(w)
             else:
                 unnessecary_words.append(w)
                 print(w[0])
 
         elif(w[1] == "en"):
             if w[0].lower() not in en_words_new and w[0].lower() not in existing_words_new:
-                #if w[0] not in en_words and w[0] not in existing_words:
                 final_candidates_en.append(w)
-                #else:
-                #    unnessecary_words.append(w)
             else:
                 unnessecary_words.append(w)
 
