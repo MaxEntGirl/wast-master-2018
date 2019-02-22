@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#Author: Alexander Vordermaier
+#Date:   22.2.2019
+
 # This Script searches through a Directory and extracts all titles and texts out of the letters in that Directory
 # The Location of the Directory is asked from the user
 # The input should look something like this: /home/v/vordermaier/Desktop/Seminar/wast-master-2018/E_Brief/FIBA2CIS/output/text
@@ -26,8 +29,8 @@ from langdetect import detect
 import string
 import codecs
 
-sammelfile = codecs.open("sammel.txt", "w",encoding='utf8')
-name = []
+sammelfile = codecs.open("sammel.txt", "w",encoding='utf8') #open the file sammel.txt for the new wordlist
+name = [] #the list for all the letters
 current_letter = ""
 wordlist = {}
 languages = {}
@@ -37,17 +40,17 @@ for path, drive, name in walk(dir):
     print("Searching Directory...")
 
 for i in name:
-    file = codecs.open(dir + "/" + i, 'r')
+    file = codecs.open(dir + "/" + i, 'r') # Open the current letter
     text = file.read().decode('utf-8')
     text = text.replace("\n", " ")
 
-    result = re.search('Title:(.*)sourceDesc:', text)
+    result = re.search('Title:(.*)sourceDesc:', text) # Extract Title
     current_letter = result.group(1)
     
-    result = re.search('Text:(.*)',text)
+    result = re.search('Text:(.*)',text) # Extract the Text
     current_letter = current_letter + result.group(1)
     
-    lang = detect(current_letter)
+    lang = detect(current_letter) # Detect the language of the letter
     for i in string.punctuation:
         if i == "-":
             print(" ")
@@ -68,7 +71,7 @@ for i in name:
 wordkeys = wordlist.keys()
 wordkeys.sort()
 
-for i in wordkeys:
+for i in wordkeys: # count languages
     if wordlist[i] not in languages:
         languages[wordlist[i]] = 1
     else:

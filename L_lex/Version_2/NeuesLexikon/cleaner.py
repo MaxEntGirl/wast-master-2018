@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#This Script cleanes the CIS-Lexica from all double-entries, so that only the smaller entry remains
+#Author: Alexander Vordermaier
+#Date:   22.2.2019
+
+#This Script cleanes the CIS-Lexica from all double-entries, so that only the smaller entry remain
+#The results are written in the file cleaned_words.txt
 
 import codecs
 
