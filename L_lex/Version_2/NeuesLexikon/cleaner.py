@@ -9,7 +9,6 @@
 
 import codecs
 
-#Variablen
 save_words = {}
 
 

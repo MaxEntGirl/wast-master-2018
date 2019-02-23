@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+#Author: Di Wu
+#Date:   23.2.2019
+
 # This programm resorted the entries from 'cleaned word list' according to following rules:
 # 1. Simplifying the Genus of german words: 'Ausgrabungen,Ausgrabung.N:4pf:3pf:2pf:1pf' -> 'Ausgrabungen,Ausgrabung.N:f'
 # 2. Simplifying the singular and plural of english words: 'ask,ask.V::g1s:g1p:g2s:g2p:g3p -> 'ask,ask.V''
