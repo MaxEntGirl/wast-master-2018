@@ -1,5 +1,6 @@
 # Lexikonvergleiche
 
+bad_words.txt:		Words that were deleted manualy
 brief_de_dela.txt:		German part of the CIS-Lex provided by Dr. Hadersbeck
 brief_en_dela.txt:		English part of the CIS-Lex provided by Dr. Hadersbeck
 compare.py:		Compares the wordlist with all lexica and builds two files new_words_de.txt and new_words_en.txt

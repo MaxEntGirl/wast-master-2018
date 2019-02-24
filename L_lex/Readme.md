@@ -57,6 +57,7 @@ You will find more specific information in the comments of the individual script
 *       Words that are inside the Lexica, but their spelling in Upper/Lowercase differs, will be saved in unnessecary_words.txt
 3. Sort manually
 *       You should look through the files and change things were you think a change would be appropriate.
+*		Words that were deleted manually, were saved in bad_words.txt
 4. Treetagger
 *		The files new_words_en.txt and new_words_de.txt should be processed by a Treetagger to get the lemma of the words.
 *		We used the Treetagger of Dr. Schmid for our work. You can find it here: http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/  
